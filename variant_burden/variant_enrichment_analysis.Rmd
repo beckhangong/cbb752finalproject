@@ -1,0 +1,56 @@
+---
+title: "Carl Zimmer Chromosome 3 SNP Burden Analysis"
+author: "Jeff Mandell, Guannan Gong, Neng Wan, and Lukas Fuentes"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Read in annotated SNP data.
+This analysis will be run with two sets of SNP data. The first excludes intergenic and intronic SNPs, but keeps splice-site, but keeps UTR SNPs and SNPS within a neighborhood upstream/downstream of the exons, while the second set only includes SNPs annotated as exon/splice-site.
+```{r, tidy = T}
+  #data = read.table("chr3_annotated_all.txt", sep = "\t", header=T, na.strings = ".", stringsAsFactors = F, quote='')
+  data = read.table("chr3_annotated_exon-splice.txt", sep = "\t", header=T, na.strings = ".", stringsAsFactors = F)
+```
+
+
+## Print gene lists
+Next, print out the ten genes with highest mutational burden. Also print out lists of genes with the most non-synonymous mutations and with the most uncommon non-synonymous mutations (< 5% max popualtion frequency).
+
+```{r, tidy = T}
+  count_table = table(data$hgnc_symbol)
+  print(sort(count_table, decreasing = T)[1:10])
+
+  # Repeat, with synonymous variants excluded
+  nonsynonymous = data[is.na(data$ExonicFunc.ensGene) | data$ExonicFunc.ensGene != "synonymous SNV", ]
+  nonsyn_table = table(nonsynonymous$hgnc_symbol)
+  print(sort(nonsyn_table, decreasing = T)[1:10])
+  
+
+  # Repeat using uncommon variants only (max population frequency < 5% or unknown)
+  nonsynonymous_uncommon = nonsynonymous[is.na(nonsynonymous$PopFreqMax) | nonsynonymous$PopFreqMax < 0.05,]
+  nonsyn_uncommon_table = table(nonsynonymous_uncommon$hgnc_symbol)
+  print(sort(nonsyn_uncommon_table, decreasing = T)[1:10])
+```
+
+
+## Re-run with gene length normalization
+Print the lists of genes with the highest variant burden (all variants, non-synonymous, and uncommon non-synonymous).
+```{r, cache = T}
+  ens_hcgna = data$Gene.ensGene
+  names(ens_hcgna) = data$hgnc_symbol
+  
+  lengths = data$gene_length
+  names(lengths) = data$Gene.ensGene
+  normed = count_table / lengths[ens_hcgna[names(count_table)]]
+  print(sort(normed, decreasing = T)[1:10])
+  
+  nonsynonymous_normed = nonsyn_table / lengths[ens_hcgna[names(nonsyn_table)]]
+  print(sort(nonsynonymous_normed, decreasing = T)[1:10])
+  
+  nonsyn_uncommon_normed = nonsyn_uncommon_table / lengths[ens_hcgna[names(nonsyn_uncommon_table)]]
+  print(sort(nonsyn_uncommon_normed, decreasing = T)[1:10])
+```
+
