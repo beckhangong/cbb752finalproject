@@ -1,0 +1,259 @@
+Related Key Words Count for Gene: DNAH12
+==========================================================================
+
+SNP: rs4681982
+
+SNP: rs6773904
+
+SNP: rs6806444
+
+SNP: rs4462937
+Category: variant
+--------------------->
+	rs2273650@litvar@rs2273650##	1
+	rs3181374@litvar@rs3181374##	1
+	rs888208@litvar@rs888208##	1
+	rs3208181@litvar@rs3208181##	1
+	rs28362680@litvar@rs28362680##	1
+	rs1053004@litvar@rs1053004##	1
+	rs4462937@litvar@rs4462937##	1
+Category: gene
+--------------------->
+	DNAH12@gene@201625	1
+	NFKBIA@gene@4792	1
+	BTNL2@gene@56244	1
+	NKX2-3@gene@159296	1
+	HLA-DQA2@gene@3118	1
+	NKX3-1@gene@4824	1
+	STAT3@gene@6774	1
+	TNFSF8@gene@944	1
+
+SNP: rs4060726
+
+
+Related literatures for Gene: DNAH12
+==========================================================================
+
+1. Clin Genet. 2013 Nov;84(5):453-63. doi: 10.1111/cge.12257.
+
+A systematic approach to assessing the clinical significance of genetic variants.
+
+Duzkale H(1), Shen J, McLaughlin H, Alfares A, Kelly MA, Pugh TJ, Funke BH, Rehm 
+HL, Lebo MS.
+
+Author information: 
+(1)Harvard Medical School Genetics Training Program, Boston, MA, USA; Laboratory 
+for Molecular Medicine, Partners HealthCare Center for Personalized Genetic
+Medicine, Cambridge, MA, USA.
+
+Molecular genetic testing informs diagnosis, prognosis, and risk assessment for
+patients and their family members. Recent advances in low-cost, high-throughput
+DNA sequencing and computing technologies have enabled the rapid expansion of
+genetic test content, resulting in dramatically increased numbers of DNA variants
+identified per test. To address this challenge, our laboratory has developed a
+systematic approach to thorough and efficient assessments of variants for
+pathogenicity determination. We first search for existing data in publications
+and databases including internal, collaborative and public resources. We then
+perform full evidence-based assessments through statistical analyses of
+observations in the general population and disease cohorts, evaluation of
+experimental data from in vivo or in vitro studies, and computational predictions
+of potential impacts of each variant. Finally, we weigh all evidence to reach an 
+overall conclusion on the potential for each variant to be disease causing. In
+this report, we highlight the principles of variant assessment, address the
+caveats and pitfalls, and provide examples to illustrate the process. By sharing 
+our experience and providing a framework for variant assessment, including access
+to a freely available customizable tool, we hope to help move towards
+standardized and consistent approaches to variant assessment.
+
+© 2013 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/cge.12257 
+PMCID: PMC3995020
+PMID: 24033266  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------
+
+1. Gut. 2016 May;65(5):788-96. doi: 10.1136/gutjnl-2014-308617. Epub 2015 Mar 2.
+
+Deep resequencing of 131 Crohn's disease associated genes in pooled DNA confirmed
+three reported variants and identified eight novel variants.
+
+Hong SN(1), Park C(2), Park SJ(3), Lee CK(4), Ye BD(5), Kim YS(6), Lee S(7), Chae
+J(2), Kim JI(8), Kim YH(1); IBD Study Group of the Korean Association for the
+Study of Intestinal Diseases (KASID).
+
+Author information: 
+(1)Department of Medicine, Samsung Medical Center, Sungkyunkwan University School
+of Medicine, Seoul, Korea.
+(2)Department of Biomedical Sciences, Seoul National University Graduate School, 
+Seoul, Korea Department of Biochemistry and Molecular Biology, Seoul National
+University College of Medicine, Seoul, Korea.
+(3)Department of Internal Medicine and Institute of Gastroenterology, Yonsei
+University College of Medicine, Seoul, Korea.
+(4)Department of Internal Medicine, Kyung Hee University School of Medicine,
+Seoul, Korea.
+(5)Department of Gastroenterology and Inflammatory Bowel Disease Center, Asan
+Medical Centre, University of Ulsan College of Medicine.
+(6)Department of Internal Medicine, Seoul Paik Hospital, Inje University College 
+of Medicine, Seoul, Korea.
+(7)Department of Biomedical Sciences, Seoul National University Graduate School, 
+Seoul, Korea Department of Biochemistry and Molecular Biology, Seoul National
+University College of Medicine, Seoul, Korea Medical Research Center, Genomic
+Medicine Institute (GMI), Seoul National University, Seoul, Korea.
+(8)Department of Biomedical Sciences, Seoul National University Graduate School, 
+Seoul, Korea Department of Biochemistry and Molecular Biology, Seoul National
+University College of Medicine, Seoul, Korea Medical Research Center, Genomic
+Medicine Institute (GMI), Seoul National University, Seoul, Korea Cancer Research
+Institute, Seoul National University College of Medicine, Seoul, Korea.
+
+OBJECTIVE: Genome wide association studies (GWAS) and meta-analyses for Crohn's
+disease (CD) have not fully explained the heritability of CD, suggesting that
+additional loci are yet to be found and that the known loci may contain high
+effect rare risk variants that have thus far gone undetected by GWAS. While the
+cost of deep sequencing remains too high to analyse many samples, targeted
+sequencing of pooled DNA samples allows the efficient and cost effective capture 
+of all variations in a target region.
+DESIGN: We performed pooled sequencing in 500 Korean CD cases and 1000 controls
+to evaluate the coding exon and 5' and 3' untranslated regions of 131 CD
+associated genes. The identified genetic variants were validated using genotyping
+in an independent set of 500 CD cases and 1000 controls.
+RESULTS: Pooled sequencing identified 30 common/low single nucleotide variants
+(SNVs) in 12 genes and 3 rare SNVs in 3 genes. Our results confirmed a
+significant association of CD with the following previously reported risk loci:
+rs3810936 in TNFSF15 (OR=1.83, p<2.2×10(-16)), rs76418789 in IL23R (OR=0.47,
+p=1.14×10(-8)) and rs2241880 in ATG16L1 (OR=1.30, p=5.28×10(-6)). In addition,
+novel loci were identified in TNFSF8 (rs3181374, OR=1.53, p=1.03×10(-14)), BTNL2 
+(rs28362680, OR=1.47, p=9.67×10(-11)), HLA-DQA2 (rs3208181, OR=1.36,
+p=4.66×10(-6)), STAT3 (rs1053004, OR=1.29, p=2.07×10(-5)), NFKBIA (rs2273650,
+OR=0.80, p=3.93×10(-4)), NKX2-3 (rs888208, OR=0.82, p=6.37×10(-4)) and DNAH12
+(rs4462937, OR=1.13, p=3.17×10(-2)). A novel rare SNV, rs200735402 in CARD9, was 
+shown to have a protective effect (OR=0.09, p=5.28×10(-5)).
+CONCLUSIONS: Our deep resequencing of 131 CD associated genes confirmed 3
+reported risk loci and identified 8 novel risk loci for CD in Koreans, providing 
+new insights into the genetic architecture of CD.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not
+already granted under a licence) please go to
+http://www.bmj.com/company/products-services/rights-and-licensing/
+
+DOI: 10.1136/gutjnl-2014-308617 
+PMID: 25731871  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------
+
+1. Clin Genet. 2013 Nov;84(5):453-63. doi: 10.1111/cge.12257.
+
+A systematic approach to assessing the clinical significance of genetic variants.
+
+Duzkale H(1), Shen J, McLaughlin H, Alfares A, Kelly MA, Pugh TJ, Funke BH, Rehm 
+HL, Lebo MS.
+
+Author information: 
+(1)Harvard Medical School Genetics Training Program, Boston, MA, USA; Laboratory 
+for Molecular Medicine, Partners HealthCare Center for Personalized Genetic
+Medicine, Cambridge, MA, USA.
+
+Molecular genetic testing informs diagnosis, prognosis, and risk assessment for
+patients and their family members. Recent advances in low-cost, high-throughput
+DNA sequencing and computing technologies have enabled the rapid expansion of
+genetic test content, resulting in dramatically increased numbers of DNA variants
+identified per test. To address this challenge, our laboratory has developed a
+systematic approach to thorough and efficient assessments of variants for
+pathogenicity determination. We first search for existing data in publications
+and databases including internal, collaborative and public resources. We then
+perform full evidence-based assessments through statistical analyses of
+observations in the general population and disease cohorts, evaluation of
+experimental data from in vivo or in vitro studies, and computational predictions
+of potential impacts of each variant. Finally, we weigh all evidence to reach an 
+overall conclusion on the potential for each variant to be disease causing. In
+this report, we highlight the principles of variant assessment, address the
+caveats and pitfalls, and provide examples to illustrate the process. By sharing 
+our experience and providing a framework for variant assessment, including access
+to a freely available customizable tool, we hope to help move towards
+standardized and consistent approaches to variant assessment.
+
+© 2013 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/cge.12257 
+PMCID: PMC3995020
+PMID: 24033266  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------
+
+1. Clin Genet. 2013 Nov;84(5):453-63. doi: 10.1111/cge.12257.
+
+A systematic approach to assessing the clinical significance of genetic variants.
+
+Duzkale H(1), Shen J, McLaughlin H, Alfares A, Kelly MA, Pugh TJ, Funke BH, Rehm 
+HL, Lebo MS.
+
+Author information: 
+(1)Harvard Medical School Genetics Training Program, Boston, MA, USA; Laboratory 
+for Molecular Medicine, Partners HealthCare Center for Personalized Genetic
+Medicine, Cambridge, MA, USA.
+
+Molecular genetic testing informs diagnosis, prognosis, and risk assessment for
+patients and their family members. Recent advances in low-cost, high-throughput
+DNA sequencing and computing technologies have enabled the rapid expansion of
+genetic test content, resulting in dramatically increased numbers of DNA variants
+identified per test. To address this challenge, our laboratory has developed a
+systematic approach to thorough and efficient assessments of variants for
+pathogenicity determination. We first search for existing data in publications
+and databases including internal, collaborative and public resources. We then
+perform full evidence-based assessments through statistical analyses of
+observations in the general population and disease cohorts, evaluation of
+experimental data from in vivo or in vitro studies, and computational predictions
+of potential impacts of each variant. Finally, we weigh all evidence to reach an 
+overall conclusion on the potential for each variant to be disease causing. In
+this report, we highlight the principles of variant assessment, address the
+caveats and pitfalls, and provide examples to illustrate the process. By sharing 
+our experience and providing a framework for variant assessment, including access
+to a freely available customizable tool, we hope to help move towards
+standardized and consistent approaches to variant assessment.
+
+© 2013 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/cge.12257 
+PMCID: PMC3995020
+PMID: 24033266  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------
+
+1. Clin Genet. 2013 Nov;84(5):453-63. doi: 10.1111/cge.12257.
+
+A systematic approach to assessing the clinical significance of genetic variants.
+
+Duzkale H(1), Shen J, McLaughlin H, Alfares A, Kelly MA, Pugh TJ, Funke BH, Rehm 
+HL, Lebo MS.
+
+Author information: 
+(1)Harvard Medical School Genetics Training Program, Boston, MA, USA; Laboratory 
+for Molecular Medicine, Partners HealthCare Center for Personalized Genetic
+Medicine, Cambridge, MA, USA.
+
+Molecular genetic testing informs diagnosis, prognosis, and risk assessment for
+patients and their family members. Recent advances in low-cost, high-throughput
+DNA sequencing and computing technologies have enabled the rapid expansion of
+genetic test content, resulting in dramatically increased numbers of DNA variants
+identified per test. To address this challenge, our laboratory has developed a
+systematic approach to thorough and efficient assessments of variants for
+pathogenicity determination. We first search for existing data in publications
+and databases including internal, collaborative and public resources. We then
+perform full evidence-based assessments through statistical analyses of
+observations in the general population and disease cohorts, evaluation of
+experimental data from in vivo or in vitro studies, and computational predictions
+of potential impacts of each variant. Finally, we weigh all evidence to reach an 
+overall conclusion on the potential for each variant to be disease causing. In
+this report, we highlight the principles of variant assessment, address the
+caveats and pitfalls, and provide examples to illustrate the process. By sharing 
+our experience and providing a framework for variant assessment, including access
+to a freely available customizable tool, we hope to help move towards
+standardized and consistent approaches to variant assessment.
+
+© 2013 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/cge.12257 
+PMCID: PMC3995020
+PMID: 24033266  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------

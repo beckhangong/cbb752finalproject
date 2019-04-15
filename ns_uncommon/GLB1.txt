@@ -1,0 +1,427 @@
+Related Key Words Count for Gene: GLB1
+==========================================================================
+
+SNP: rs4302331
+Category: gene
+--------------------->
+	GLB1@gene@2720	1
+	GUSB@gene@2990	1
+Category: variant
+--------------------->
+	rs4302331@litvar@rs4302331##	3
+	rs73826339@litvar@rs73826339##	2
+	p.V213I@litvar@#2990#p.V213I	1
+	rs779755961@litvar@rs779755961##	1
+	p.I387V@litvar@#2990#p.I387V	1
+	p.L217M@litvar@#2990#p.L217M	1
+	p.E414D@litvar@#2990#p.E414D	1
+	c.29T>A@litvar@#2990#c.29T>A	1
+
+SNP: rs35289681
+Category: disease
+--------------------->
+	Gangliosidosis, GM1@mesh@D016537	1
+Category: gene
+--------------------->
+	SULA_RS03985@gene@24888464	1
+	GALP@gene@85569	1
+	GLB1@gene@2720	1
+Category: chemical
+--------------------->
+	Glycosylphosphatidylinositols@mesh@D017261	1
+	leucyl-phenylalanine@mesh@C119108	1
+	4'-galactooligosaccharide@mesh@C072242	1
+	Lactose@mesh@D007785	1
+Category: variant
+--------------------->
+	rs35289681@litvar@rs35289681##	2
+	c.IVS7+10G>T@litvar@#2720#c.IVS7+10G>T	1
+	rs77226678@litvar@rs77226678##	1
+	p.F441Y@litvar@#24888464#p.F441Y	1
+	p.F426Y@litvar@#24888464#p.F426Y	1
+	rs72555372@litvar@rs72555372##	1
+	p.M424K@litvar@#24888464#p.M424K	1
+	rs748873359@litvar@rs748873359##	1
+	p.F571L,N@litvar@#24888464#p.F571L,N	1
+	rs72555370@litvar@rs72555370##	1
+
+SNP: rs7637099
+Category: disease
+--------------------->
+	Scoliosis@mesh@D012600	1
+	Death@mesh@D003643	1
+	Seizures@mesh@D012640	1
+	Genetic Diseases, Inborn@mesh@D030342	1
+	Leukomalacia, Periventricular@mesh@D007969	1
+	Anophthalmos@mesh@D000853	1
+	Hypertrophy, Left Ventricular@mesh@D017379	1
+	Contiguous Abcd1-Dxs1375e Deletion Syndrome@mesh@C564508	1
+	Cardiomyopathy, Dilated@mesh@D002311	1
+	Muscle Hypotonia@mesh@D009123	1
+Category: gene
+--------------------->
+	GLB1@gene@2720	2
+	SH3TC2@gene@79628	1
+	FRMD6@gene@122786	1
+	IGHMBP2@gene@3508	1
+	NHLRC1@gene@378884	1
+	ABCA4@gene@24	1
+Category: chemical
+--------------------->
+	Nitrogen@mesh@D009584	1
+Category: variant
+--------------------->
+	rs7637099@litvar@rs7637099##	3
+	p.166delL@litvar@#2720#p.166delL	1
+	rs3112831@litvar@rs3112831##	1
+	rs10949483@litvar@rs10949483##	1
+	rs759084715@litvar@rs759084715##	1
+	rs80338933@litvar@rs80338933##	1
+	rs61753049@litvar@rs61753049##	1
+	rs80359890@litvar@rs80359890##	1
+	rs754077128@litvar@rs754077128##	1
+	rs17612126@litvar@rs17612126##	1
+
+
+Related literatures for Gene: GLB1
+==========================================================================
+
+1. Biochim Biophys Acta. 2011 Jul;1812(7):782-90. doi: 10.1016/j.bbadis.2011.03.018.
+Epub 2011 Apr 7.
+
+GM1 gangliosidosis and Morquio B disease: an update on genetic alterations and
+clinical findings.
+
+Caciotti A(1), Garman SC, Rivera-Colón Y, Procopio E, Catarzi S, Ferri L, Guido
+C, Martelli P, Parini R, Antuzzi D, Battini R, Sibilio M, Simonati A, Fontana E, 
+Salviati A, Akinci G, Cereda C, Dionisi-Vici C, Deodato F, d'Amico A, d'Azzo A,
+Bertini E, Filocamo M, Scarpa M, di Rocco M, Tifft CJ, Ciani F, Gasperini S,
+Pasquini E, Guerrini R, Donati MA, Morrone A.
+
+Author information: 
+(1)Metabolic and Muscular Unit, Clinic of Pediatric Neurology, Meyer Children's
+Hospital, Florence, Italy.
+
+GM1 gangliosidosis and Morquio B syndrome, both arising from beta-galactosidase
+(GLB1) deficiency, are very rare lysosomal storage diseases with an incidence of 
+about 1:100,000-1:200,000 live births worldwide. Here we report the
+beta-galactosidase gene (GLB1) mutation analysis of 21 unrelated GM1
+gangliosidosis patients, and of 4 Morquio B patients, of whom two are brothers.
+Clinical features of the patients were collected and compared with those in
+literature. In silico analyses were performed by standard alignments tools and by
+an improved version of GLB1 three-dimensional models. The analysed cohort
+includes remarkable cases. One patient with GM1 gangliosidosis had a triple X
+syndrome. One patient with juvenile GM1 gangliosidosis was homozygous for a
+mutation previously identified in Morquio type B. A patient with infantile GM1
+gangliosidosis carried a complex GLB1 allele harbouring two genetic variants
+leading to p.R68W and p.R109W amino acid changes, in trans with the known p.R148C
+mutation. Molecular analysis showed 27 mutations, 9 of which are new: 5 missense,
+3 microdeletions and a nonsense mutation. We also identified four new genetic
+variants with a predicted polymorphic nature that was further investigated by in 
+silico analyses. Three-dimensional structural analysis of GLB1 homology models
+including the new missense mutations and the p.R68W and p.R109W amino acid
+changes showed that all the amino acid replacements affected the resulting
+protein structures in different ways, from changes in polarity to folding
+alterations. Genetic and clinical associations led us to undertake a critical
+review of the classifications of late-onset GM1 gangliosidosis and Morquio B
+disease.
+
+Copyright © 2011 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbadis.2011.03.018 
+PMCID: PMC3210552
+PMID: 21497194  [Indexed for MEDLINE]
+
+
+2. Biochemistry. 2017 Feb 7;56(5):704-711. doi: 10.1021/acs.biochem.7b00032. Epub
+2017 Jan 25.
+
+Engineering of the Bacillus circulans β-Galactosidase Product Specificity.
+
+Yin H(1), Pijning T(1), Meng X(1), Dijkhuizen L(1), van Leeuwen SS(1).
+
+Author information: 
+(1)Microbial Physiology and §Biophysical Chemistry, Groningen Biomolecular
+Sciences and Biotechnology Institute (GBB), University of Groningen , Nijenborgh 
+7, 9747 AG Groningen, The Netherlands.
+
+Microbial β-galactosidase enzymes are widely used as biocatalysts in industry to 
+produce prebiotic galactooligosaccharides (GOS) from lactose. GOS mixtures are
+used as beneficial additives in infant formula to mimic the prebiotic effects of 
+human milk oligosaccharides (hMOS). The structural variety in GOS mixtures is
+significantly lower than in hMOS. Since this structural complexity is considered 
+as the basis for the multiple biological functions of hMOS, it is important to
+broaden the variety of GOS structures. In this study, residue R484 near +1
+subsite of the C-terminally truncated β-galactosidase from Bacillus circulans
+(BgaD-D) was subjected to site saturation mutagenesis. Especially the R484S and
+R484H mutant enzymes displayed significantly altered enzyme specificity, leading 
+to a new type of GOS mixture with altered structures and linkage types. The GOS
+mixtures produced by these mutant enzymes contained 14 structures that were not
+present in the wild-type enzyme GOS mixture; 10 of these are completely new
+structures. The GOS produced by these mutant enzymes contained a combination of
+(β1 → 3) and (β1 → 4) linkages, while the wild-type enzyme has a clear preference
+toward (β1 → 4) linkages. The yield of the trisaccharide β-d-Galp-(1 →
+3)-β-d-Galp-(1 → 4)-d-Glcp produced by mutants R484S and R484H increased 50 times
+compared to that of the wild-type enzyme. These results indicate that residue
+R484 is crucial for the linkage specificity of BgaD-D. This is the first study
+showing that β-galactosidase enzyme engineering results in an altered GOS linkage
+specificity and product mixture. The more diverse GOS mixtures produced by these 
+engineered enzymes may find industrial applications.
+
+DOI: 10.1021/acs.biochem.7b00032 
+PMCID: PMC5330655
+PMID: 28092444  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------
+
+1. J Lipid Res. 2007 Oct;48(10):2275-82. Epub 2007 Jul 30.
+
+Expression and characterization of 14 GLB1 mutant alleles found in
+GM1-gangliosidosis and Morquio B patients.
+
+Santamaria R(1), Chabás A, Callahan JW, Grinberg D, Vilageliu L.
+
+Author information: 
+(1)Departament de Genètica, Universitat de Barcelona, Barcelona, Spain.
+
+GM1-gangliosidosis and Morquio B disease are lysosomal storage disorders caused
+by beta-galactosidase deficiency attributable to mutations in the GLB1 gene. On
+reaching the endosomal-lysosomal compartment, the beta-galactosidase protein
+associates with the protective protein/cathepsin A (PPCA) and neuraminidase
+proteins to form the lysosomal multienzyme complex (LMC). The correct interaction
+of these proteins in the complex is essential for their activity. More than 100
+mutations have been described in GM1-gangliosidosis and Morquio B patients, but
+few have been further characterized. We expressed 12 mutations suspected to be
+pathogenic, one known polymorphic change (p.S532G), and a variant described as
+either a pathogenic or a polymorphic change (p.R521C). Ten of them had not been
+expressed before. The expression analysis confirmed the pathogenicity of the 12
+mutations, whereas the relatively high activity of p.S532G is consistent with its
+definition as a polymorphism. The results for p.R521C suggest that this change is
+a low-penetrant disease-causing allele. Furthermore, the effect of these
+beta-galactosidase changes on the LMC was also studied by coimmunoprecipitations 
+and Western blotting. The alteration of neuraminidase and PPCA patterns in
+several of the Western blotting analyses performed on patient protein extracts
+indicated that the LMC is affected in at least some GM1-gangliosidosis and
+Morquio B patients.
+
+DOI: 10.1194/jlr.M700308-JLR200 
+PMID: 17664528  [Indexed for MEDLINE]
+
+
+2. Clin Genet. 2007 Aug;72(2):109-11.
+
+Identification of a novel pseudodeficiency allele in the GLB1 gene in a carrier
+of GM1 gangliosidosis.
+
+Gort L(1), Santamaria R, Grinberg D, Vilageliu L, Chabás A.
+
+Author information: 
+(1)Institut de Bioquímica Clínica, Servei de Bioquimica i Genètica Molecular,
+Hospital Clínic, Barcelona, Spain.
+
+The term 'pseudodeficiency' is used in lysosomal storage diseases to denote the
+situation in which individuals show greatly reduced enzyme activity but remain
+clinically healthy. Pseudodeficiencies have been reported for several lysosomal
+hydrolases. GM1 gangliosidosis is a rare autosomal recessive lysosomal storage
+disorder caused by beta-galactosidase hydrolase deficiency as a result of
+mutations in the GLB1 gene. Until now, two variants altering the
+beta-galactosidase activity have been described, p.Arg521Cys and p.Ser532Gly.
+Here we report the new variant p.Arg595Trp in the GLB1 gene, which markedly
+reduces beta-galactosidase activity when expressed in COS-1 cells. The variant
+was identified in the healthy father of a girl with GM1 gangliosidosis. He was a 
+heterozygous compound with p.Arg595Trp in trans with one of the disease-causing
+mutations identified in his daughter; in leukocytes and plasma he showed lower
+beta-galactosidase activity than that observed in GM1 gangliosidosis carriers. As
+this family originated from the Basque Country in the north of Spain, we decided 
+to analyse individuals of Basque and non-Basque origin, finding the p.Arg595Trp
+allele in 3.2% of Basque and in 0.8% of non-Basque alleles. The detection of the 
+presence of alterations resulting in pseudodeficient activity in leukocytes and
+plasma is important for the correct diagnosis of GM1 gangliosidosis.
+
+DOI: 10.1111/j.1399-0004.2007.00843.x 
+PMID: 17661814  [Indexed for MEDLINE]
+
+
+3. Appl Microbiol Biotechnol. 2007 Dec;77(3):569-78. Epub 2007 Sep 18.
+
+Directed evolution of a beta-galactosidase from Pyrococcus woesei resulting in
+increased thermostable beta-glucuronidase activity.
+
+Xiong AS(1), Peng RH, Zhuang J, Li X, Xue Y, Liu JG, Gao F, Cai B, Chen JM, Yao
+QH.
+
+Author information: 
+(1)Biotechnology Research Institute, Shanghai Academy of Agricultural Sciences,
+2901 Beidi Road, Shanghai, 201106, China.
+
+We performed directed evolution on a chemically synthesized 1,533-bp recombinant 
+beta-galactosidase gene from Pyrococcus woesei. More than 200,000 variant
+colonies in each round of directed evolution were screened using the pYPX251
+vector and host strain Rosetta-Blue (DE3). One shifted beta-galactosidase to
+beta-glucuronidase mutant, named YG6762, was obtained after four rounds of
+directed evolution and screening. This mutant had eight mutated amino acid
+residues. T29A, V213I, L217M, N277H, I387V, R491C, and N496D were key mutations
+for high beta-glucuronidase activity, while E414D was not essential because the
+mutation did not lead to a change in beta-glucuronidase activity. The amino acid 
+site 277 was the most essential because mutating H back to N resulted in a 50%
+decrease in beta-glucuronidase activity at 37 degrees C. We also demonstrated
+that amino acid 277 was the most essential site, as the mutation from N to H
+resulted in a 1.5-fold increase in beta-glucuronidase activity at 37 degrees C.
+Although most single amino acid changes lead to less than a 20% increase in
+beta-glucuronidase activity, the YG6762 variant, which was mutated at all eight
+amino acid sites, had a beta-glucuronidase activity that was about five and seven
+times greater than the wild-type enzyme at 37 and 25 degrees C, respectively.
+
+DOI: 10.1007/s00253-007-1182-7 
+PMID: 17876575  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------
+
+1. J Biomed Sci. 2010 Sep 30;17:79. doi: 10.1186/1423-0127-17-79.
+
+Three novel beta-galactosidase gene mutations in Han Chinese patients with GM1
+gangliosidosis are correlated with disease severity.
+
+Yang CF(1), Wu JY, Tsai FJ.
+
+Author information: 
+(1)School of Post-baccalaureate Chinese Medicine, China Medical University,
+Hsueh-Shih Rd,, Taichung, Taiwan.
+
+BACKGROUND: GM1 gangliosidosis (GM1) is an autosomal recessive lysosomal storage 
+disease caused by deficiency of acid beta-galactosidase (GLB1; EC3.2.1.23). Here,
+we identify three novel mutations in the GLB1 gene from two Han Chinese patients 
+with GM1 that appear correlated with clinical phenotype.
+METHODS: One of the two Han Chinese patients with GM1 presented with the juvenile
+form, and the other with the infantile form with cardiac involvement. Sequencing 
+of the entire GLB1 gene revealed three novel mutations (p.H102 D, p.G494V,
+c.495_497delTCT), which were absent in 94 normal controls. Transient expression
+of cDNA encoding these variants was performed in COS-1 cells to evaluate
+β-galactosidase activities.
+RESULTS: The first case (patient 1) with the juvenile form contained two missense
+mutations, p.H102 D and p.A301V. Patient 2 diagnosed with the infantile form of
+the disease with cardiac involvement was compound heterozygous for p.G494V and
+c.495_497delTCT mutations. All mutant beta-galactosidases exhibited significantly
+reduced activity (12%, 0%, 0%, and 0% for p.H102 D, p.A301V, p.G494V, and
+c.495_497delTCT), compared with the wild-type beta-galactosidase cDNA clone. The 
+mutations identified in patient 2 with cardiomyopathy were localized in the GLB1 
+gene region common to both lysosomal beta-galactosidase and elastin binding
+protein (EBP), and caused a deletion in the elastin-binding domain of EBP.
+CONCLUSIONS: All four mutations identified in Han Chinese patients induce
+significant suppression of β-galactosidase activity, correlating with severity of
+disease and presence of cardiomyopathy.
+
+DOI: 10.1186/1423-0127-17-79 
+PMCID: PMC2959015
+PMID: 20920281  [Indexed for MEDLINE]
+
+
+2. Medicine (Baltimore). 2018 Oct;97(42):e12872. doi: 10.1097/MD.0000000000012872.
+
+Family study of a novel mutation of mucopolysaccharidosis type VI with a severe
+phenotype and good response to enzymatic replacement therapy: Case report.
+
+Ley-Martos M(1), Guerrero JM(2), Lucas-Javato M(2), Remón-García C(3),
+García-Lozano JR(4), Colón C(5), Crujeiras P(5), Rodrigues D(5), Paúl-Sánchez
+P(6), Macher HC(2).
+
+Author information: 
+(1)Pediatric Neurology and Rare Diseases Unit, Department of Pediatry, Hospital
+Universitario Puerta del Mar, Cádiz.
+(2)Molecular Diagnosis and Rare Diseases Laboratory, Department of Clinical
+Chemistry, Hospital Universitario Virgen del Rocío and Instituto de Biomedicina
+de Sevilla (IBiS), Sevilla.
+(3)Pneumology Unit, Department of Pediatry, Hospital Universitario Puerta del
+Mar, Cádiz.
+(4)Molecular Diagnosis Unit, Department of Clinical Immunology, Hospital
+Universitario Virgen del Rocío and Instituto de Biomedicina de Sevilla (IBiS),
+Sevilla.
+(5)Diagnosis and Treatment of Congenital Metabolic Diseases Unit, Department of
+Pediatry, Hospital Clínico Universitario and Instituto de Investigacion en Salud 
+(IDIS), Santiago de Compostela.
+(6)Department of Pediatry, Hospital Universitario, Ceuta, Spain.
+
+RATIONALE: Mucopolysaccharidosis type VI (MPS VI) or Maroteaux-Lamy syndrome is
+produced by the deficiency of the enzyme arylsulfatase B, responsible for the
+hydrolysis of N-acetyl-D-galactosamine, chondroitin sulfate, and dermatan
+sulfate.
+PATIENT CONCERNS: A 3-year-old male with Moroccan origins is the index case. He
+had healthy consanguineous parents and 4 healthy brothers and sisters. The
+patient showed a wide spectrum of symptoms including skeletal dysplasia and short
+stature with elevated glycosaminoglycans (GAGs) in urine.
+DIAGNOSES, INTERVENTIONS, AND OUTCOMES: GAGs were quantified by spectrometry
+method with 1,9-dimethylen blue in 24-hour urine samples. The qualitative
+analysis of urine GAGs was obtained by thin-layer chromatography to determine the
+predominant presence of dermatan sulfate. The activities of both arylsulfatase B 
+and beta-galactosidase as well as genetic studies were performed in dried blood
+spots. The genetic study was performed with deoxyribonucleic acid by massive
+sequencing a of lisosomal storage diseases. Results showed a new mutation
+c.263A > C with the severe phenotype in homozygous in the patient. The familiar
+study of ARSB and GLB1 genes presented some asymptomatic SNPs but with a discrete
+decrease in the activity of arylsulfatase B and beta-galactosidase. After an
+early detection by pediatricians, and both enzymatic and genetic confirmation,
+the patient had a good response to substitutive enzymatic treatment with
+galsulfase.
+LESSONS: Mucoplysaccharidosis type VI is an autosomal recessive rare disease
+characterized by a lysosomal storage disorder. Although a number of mutations
+have been already associated to the disease, we have found a new mutation located
+in the arylsulfatase B enzyme gene. We have described that this mutation is the
+ultimate cause of a severe presentation of the disease.
+
+DOI: 10.1097/MD.0000000000012872 
+PMCID: PMC6211882
+PMID: 30335002  [Indexed for MEDLINE]
+
+
+3. Genome Med. 2013 Jun 27;5(6):57. doi: 10.1186/gm461. eCollection 2013.
+
+Exome sequencing resolves apparent incidental findings and reveals further
+complexity of SH3TC2 variant alleles causing Charcot-Marie-Tooth neuropathy.
+
+Lupski JR(1), Gonzaga-Jauregui C(2), Yang Y(3), Bainbridge MN(4), Jhangiani S(4),
+Buhay CJ(4), Kovar CL(4), Wang M(4), Hawes AC(4), Reid JG(4), Eng C(3), Muzny
+DM(4), Gibbs RA(1).
+
+Author information: 
+(1)Department of Molecular and Human Genetics, Baylor College of Medicine, One
+Baylor Plaza, Houston, TX 77030, USA ; Human Genome Sequencing Center, Baylor
+College of Medicine, One Baylor Plaza, Houston, TX 77030, USA.
+(2)Department of Molecular and Human Genetics, Baylor College of Medicine, One
+Baylor Plaza, Houston, TX 77030, USA.
+(3)Whole Genome Laboratory, Baylor College of Medicine, One Baylor Plaza, MS:
+NAB2015, Houston, TX 77030, USA.
+(4)Human Genome Sequencing Center, Baylor College of Medicine, One Baylor Plaza, 
+Houston, TX 77030, USA.
+
+BACKGROUND: The debate regarding the relative merits of whole genome sequencing
+(WGS) versus exome sequencing (ES) centers around comparative cost, average depth
+of coverage for each interrogated base, and their relative efficiency in the
+identification of medically actionable variants from the myriad of variants
+identified by each approach. Nevertheless, few genomes have been subjected to
+both WGS and ES, using multiple next generation sequencing platforms. In
+addition, no personal genome has been so extensively analyzed using DNA derived
+from peripheral blood as opposed to DNA from transformed cell lines that may
+either accumulate mutations during propagation or clonally expand mosaic variants
+during cell transformation and propagation.
+METHODS: We investigated a genome that was studied previously by SOLiD chemistry 
+using both ES and WGS, and now perform six independent ES assays (Illumina GAII
+(x2), Illumina HiSeq (x2), Life Technologies' Personal Genome Machine (PGM) and
+Proton), and one additional WGS (Illumina HiSeq).
+RESULTS: We compared the variants identified by the different methods and provide
+insights into the differences among variants identified between ES runs in the
+same technology platform and among different sequencing technologies. We resolved
+the true genotypes of medically actionable variants identified in the proband
+through orthogonal experimental approaches. Furthermore, ES identified an
+additional SH3TC2 variant (p.M1?) that likely contributes to the phenotype in the
+proband.
+CONCLUSIONS: ES identified additional medically actionable variant calls and
+helped resolve ambiguous single nucleotide variants (SNV) documenting the power
+of increased depth of coverage of the captured targeted regions. Comparative
+analyses of WGS and ES reveal that pseudogenes and segmental duplications may
+explain some instances of apparent disease mutations in unaffected individuals.
+
+DOI: 10.1186/gm461 
+PMCID: PMC3706849
+PMID: 23806086 
+
+----------------------------------------------------------------------------

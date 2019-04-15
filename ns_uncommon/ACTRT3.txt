@@ -1,0 +1,113 @@
+Related Key Words Count for Gene: ACTRT3
+==========================================================================
+
+SNP: rs2068178
+Category: gene
+--------------------->
+	MYNN@gene@55892	1
+	ACTRT3@gene@84517	1
+	CXCR4@gene@7852	1
+	ZNF729@gene@100287226	1
+	STN1@gene@79991	1
+	TERC@gene@7012	1
+Category: chemical
+--------------------->
+	Nitrogen@mesh@D009584	1
+Category: variant
+--------------------->
+	rs7100920@litvar@rs7100920##	1
+	rs12630450@litvar@rs12630450##	1
+	rs11598840@litvar@rs11598840##	1
+	rs4918069@litvar@rs4918069##	1
+	rs9860874@litvar@rs9860874##	1
+	rs2902638@litvar@rs2902638##	1
+	rs1317082@litvar@rs1317082##	1
+	rs77987791@litvar@rs77987791##	1
+	rs3821383@litvar@rs3821383##	1
+	rs12638862@litvar@rs12638862##	1
+
+SNP: rs34273285
+
+
+Related literatures for Gene: ACTRT3
+==========================================================================
+
+1. Front Genet. 2014 Jan 17;4:310. doi: 10.3389/fgene.2013.00310. eCollection 2013.
+
+Genome wide association and linkage analyses identified three loci-4q25, 17q23.2,
+and 10q11.21-associated with variation in leukocyte telomere length: the Long
+Life Family Study.
+
+Lee JH(1), Cheng R(2), Honig LS(3), Feitosa M(4), Kammerer CM(5), Kang MS(6),
+Schupf N(7), Lin SJ(4), Sanders JL(8), Bae H(9), Druley T(10), Perls T(11),
+Christensen K(12), Province M(4), Mayeux R(13).
+
+Author information: 
+(1)Sergievsky Center, College of Physicians and Surgeons, Columbia University New
+York, NY, USA ; Taub Institute, College of Physicians and Surgeons, Columbia
+University New York, NY, USA ; Department of Epidemiology, School of Public
+Health, Columbia University New York, NY, USA.
+(2)Sergievsky Center, College of Physicians and Surgeons, Columbia University New
+York, NY, USA ; Taub Institute, College of Physicians and Surgeons, Columbia
+University New York, NY, USA.
+(3)Sergievsky Center, College of Physicians and Surgeons, Columbia University New
+York, NY, USA ; Taub Institute, College of Physicians and Surgeons, Columbia
+University New York, NY, USA ; Department of Neurology, College of Physicians and
+Surgeons, Columbia University New York, NY, USA.
+(4)Division of Statistical Genomics, Department of Genetics, Washington
+University School of Medicine St. Louis, MO, USA.
+(5)Department of Epidemiology, University of Pittsburgh Pittsburgh, PA, USA ;
+Department of Human Genetics, University of Pittsburgh Pittsburgh, PA, USA ;
+Center for Aging and Population Health, University of Pittsburgh Pittsburgh, PA, 
+USA.
+(6)Taub Institute, College of Physicians and Surgeons, Columbia University New
+York, NY, USA.
+(7)Sergievsky Center, College of Physicians and Surgeons, Columbia University New
+York, NY, USA ; Taub Institute, College of Physicians and Surgeons, Columbia
+University New York, NY, USA ; Department of Epidemiology, School of Public
+Health, Columbia University New York, NY, USA ; Department of Psychiatry, College
+of Physicians and Surgeons, Columbia University New York, NY, USA.
+(8)Department of Epidemiology, University of Pittsburgh Pittsburgh, PA, USA ;
+Center for Aging and Population Health, University of Pittsburgh Pittsburgh, PA, 
+USA.
+(9)Department of Biostatistics, Boston University Medical Center Boston, MA, USA.
+(10)Department of Pediatrics and Genetics, Washington University School of
+Medicine St. Louis, MO, USA.
+(11)Department of Medicine, Boston University Medical Center Boston, MA, USA.
+(12)The Danish Aging Research Center, Epidemiology, University of Southern
+Denmark Odense, Denmark.
+(13)Sergievsky Center, College of Physicians and Surgeons, Columbia University
+New York, NY, USA ; Taub Institute, College of Physicians and Surgeons, Columbia 
+University New York, NY, USA ; Department of Epidemiology, School of Public
+Health, Columbia University New York, NY, USA ; Department of Neurology, College 
+of Physicians and Surgeons, Columbia University New York, NY, USA ; Department of
+Psychiatry, College of Physicians and Surgeons, Columbia University New York, NY,
+USA.
+
+Leukocyte telomere length is believed to measure cellular aging in humans, and
+short leukocyte telomere length is associated with increased risks of late onset 
+diseases, including cardiovascular disease, dementia, etc. Many studies have
+shown that leukocyte telomere length is a heritable trait, and several candidate 
+genes have been identified, including TERT, TERC, OBFC1, and CTC1. Unlike most
+studies that have focused on genetic causes of chronic diseases such as heart
+disease and diabetes in relation to leukocyte telomere length, the present study 
+examined the genome to identify variants that may contribute to variation in
+leukocyte telomere length among families with exceptional longevity. From the
+genome wide association analysis in 4,289 LLFS participants, we identified a
+novel intergenic SNP rs7680468 located near PAPSS1 and DKK2 on 4q25 (p = 4.7E-8).
+From our linkage analysis, we identified two additional novel loci with HLOD
+scores exceeding three, including 4.77 for 17q23.2, and 4.36 for 10q11.21. These 
+two loci harbor a number of novel candidate genes with SNPs, and our gene-wise
+association analysis identified multiple genes, including DCAF7, POLG2, CEP95,
+and SMURF2 at 17q23.2; and RASGEF1A, HNRNPF, ANF487, CSTF2T, and PRKG1 at
+10q11.21. Among these genes, multiple SNPs were associated with leukocyte
+telomere length, but the strongest association was observed with one contiguous
+haplotype in CEP95 and SMURF2. We also show that three previously reported
+genes-TERC, MYNN, and OBFC1-were significantly associated with leukocyte telomere
+length at p empirical < 0.05.
+
+DOI: 10.3389/fgene.2013.00310 
+PMCID: PMC3894567
+PMID: 24478790 
+
+----------------------------------------------------------------------------

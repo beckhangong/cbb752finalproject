@@ -1,0 +1,359 @@
+Related Key Words Count for Gene: ALDH1L1
+==========================================================================
+
+SNP: rs202042780
+
+SNP: rs2886059
+Category: disease
+--------------------->
+	Prostatic Neoplasms@mesh@D011471	1
+	Endometrial Neoplasms@mesh@D016889	1
+Category: gene
+--------------------->
+	ALDH1L1@gene@10840	2
+	MAF@gene@4094	1
+	CHDH@gene@55349	1
+	MTHFD1@gene@4522	1
+	MTRR@gene@4552	1
+	FOLH1@gene@2346	1
+	PEBP4@gene@157310	1
+	CDH23@gene@64072	1
+	ARSA@gene@410	1
+	SHMT1@gene@6470	1
+Category: chemical
+--------------------->
+	Carbon@mesh@D002244	1
+	Folic Acid@mesh@D005492	1
+Category: variant
+--------------------->
+	rs2886059@litvar@rs2886059##	3
+	rs2365004@litvar@rs2365004##	1
+	rs1823213@litvar@rs1823213##	1
+	rs11923466@litvar@rs11923466##	1
+	rs10934751@litvar@rs10934751##	1
+	rs162036@litvar@rs162036##	1
+	rs12676@litvar@rs12676##	1
+	rs16879334@litvar@rs16879334##	1
+	rs1801394@litvar@rs1801394##	1
+	rs17712523@litvar@rs17712523##	1
+
+SNP: rs2276724
+Category: disease
+--------------------->
+	Endometrial Neoplasms@mesh@D016889	1
+Category: gene
+--------------------->
+	MAF@gene@4094	1
+	PEMT@gene@10400	1
+	MTHFD2@gene@10797	1
+	FOLH1@gene@2346	1
+	SLC19A1@gene@6573	1
+	SHMT1@gene@6470	1
+	MTHFD1@gene@4522	1
+	CHDH@gene@55349	1
+	MTHFR@gene@4524	1
+	ALDH1L1@gene@10840	1
+Category: chemical
+--------------------->
+	Folic Acid@mesh@D005492	1
+	Carbon@mesh@D002244	1
+Category: variant
+--------------------->
+	rs9001@litvar@rs9001##	1
+	rs11545078@litvar@rs11545078##	1
+	rs2236225@litvar@rs2236225##	1
+	rs202676@litvar@rs202676##	1
+	rs2228612@litvar@rs2228612##	1
+	rs2372536@litvar@rs2372536##	1
+	rs11545077@litvar@rs11545077##	1
+	rs1979277@litvar@rs1979277##	1
+	rs1532268@litvar@rs1532268##	1
+	rs1051266@litvar@rs1051266##	1
+
+SNP: rs4646750
+Category: variant
+--------------------->
+	rs4646750@litvar@rs4646750##	2
+	rs8971@litvar@rs8971##	1
+	rs11545078@litvar@rs11545078##	1
+	rs2372536@litvar@rs2372536##	1
+	rs11545077@litvar@rs11545077##	1
+	rs2236225@litvar@rs2236225##	1
+	rs1979277@litvar@rs1979277##	1
+	rs1051266@litvar@rs1051266##	1
+	rs10380@litvar@rs10380##	1
+	rs162036@litvar@rs162036##	1
+Category: gene
+--------------------->
+	ALDH1L1@gene@10840	2
+	MAF@gene@4094	1
+	MTHFD2@gene@10797	1
+	SHMT1@gene@6470	1
+	MTHFD1@gene@4522	1
+	FOLH1@gene@2346	1
+	CHDH@gene@55349	1
+	DNMT1@gene@1786	1
+	SLC19A1@gene@6573	1
+	MTRR@gene@4552	1
+
+
+Related literatures for Gene: ALDH1L1
+==========================================================================
+
+1. Br J Cancer. 2013 Jan 15;108(1):183-7. doi: 10.1038/bjc.2012.534. Epub 2013 Jan
+8.
+
+One-carbon metabolism factors and endometrial cancer risk.
+
+Liu JJ(1), Hazra A, Giovannucci E, Hankinson SE, Rosner B, De Vivo I.
+
+Author information: 
+(1)Department of Epidemiology, Harvard School of Public Health, Boston, MA 02115,
+USA. jasonjliu.jjl@gmail.com
+
+BACKGROUND: This is the largest prospective cohort analysis to assess how dietary
+factors involved in one-carbon metabolism are associated with endometrial cancer 
+incidence, using 26 years of follow-up data from the Nurses' Health Study.
+METHODS: The prospective cohort analysis of one-carbon metabolism dietary factors
+used the Cox proportional hazards model, and incorporated 788 incident
+endometrial cancer events from 1980 to 2006. Genotyping and unconditional
+logistic regression were performed on 572 endometrial cancer cases and their
+matched controls to examine 29 mostly non-synonymous single-nucleotide
+polymorphisms involved in one-carbon metabolism.
+RESULTS: There were no significant dose-response relationships between intake of 
+any of the one-carbon metabolism dietary factors and endometrial cancer
+incidence, but alcohol consumption of <1 drink a day was significantly protective
+(hazard ratio: 0.80; 95% CI: 0.68, 0.94). Those with the MTHFR 677 TT or MTHFR
+1298 CC genotype had more protective associations for many of the dietary factors
+and endometrial cancer, but statistical power was limited in this analysis.
+CONCLUSION: Dietary levels of folate, choline, methionine, vitamin B2, vitamin B6
+or vitamin B12 do not appear to influence endometrial cancer incidence. Moderate 
+alcohol intake may protect against developing endometrial cancer.
+
+DOI: 10.1038/bjc.2012.534 
+PMCID: PMC3553527
+PMID: 23299529  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------
+
+1. Br J Cancer. 2013 Jan 15;108(1):183-7. doi: 10.1038/bjc.2012.534. Epub 2013 Jan
+8.
+
+One-carbon metabolism factors and endometrial cancer risk.
+
+Liu JJ(1), Hazra A, Giovannucci E, Hankinson SE, Rosner B, De Vivo I.
+
+Author information: 
+(1)Department of Epidemiology, Harvard School of Public Health, Boston, MA 02115,
+USA. jasonjliu.jjl@gmail.com
+
+BACKGROUND: This is the largest prospective cohort analysis to assess how dietary
+factors involved in one-carbon metabolism are associated with endometrial cancer 
+incidence, using 26 years of follow-up data from the Nurses' Health Study.
+METHODS: The prospective cohort analysis of one-carbon metabolism dietary factors
+used the Cox proportional hazards model, and incorporated 788 incident
+endometrial cancer events from 1980 to 2006. Genotyping and unconditional
+logistic regression were performed on 572 endometrial cancer cases and their
+matched controls to examine 29 mostly non-synonymous single-nucleotide
+polymorphisms involved in one-carbon metabolism.
+RESULTS: There were no significant dose-response relationships between intake of 
+any of the one-carbon metabolism dietary factors and endometrial cancer
+incidence, but alcohol consumption of <1 drink a day was significantly protective
+(hazard ratio: 0.80; 95% CI: 0.68, 0.94). Those with the MTHFR 677 TT or MTHFR
+1298 CC genotype had more protective associations for many of the dietary factors
+and endometrial cancer, but statistical power was limited in this analysis.
+CONCLUSION: Dietary levels of folate, choline, methionine, vitamin B2, vitamin B6
+or vitamin B12 do not appear to influence endometrial cancer incidence. Moderate 
+alcohol intake may protect against developing endometrial cancer.
+
+DOI: 10.1038/bjc.2012.534 
+PMCID: PMC3553527
+PMID: 23299529  [Indexed for MEDLINE]
+
+
+2. Cancer Epidemiol Biomarkers Prev. 2008 Dec;17(12):3612-4. doi:
+10.1158/1055-9965.EPI-08-0789.
+
+No association of single nucleotide polymorphisms in one-carbon metabolism genes 
+with prostate cancer risk.
+
+Stevens VL(1), Rodriguez C, Sun J, Talbot JT, Thun MJ, Calle EE.
+
+Author information: 
+(1)Epidemiology and Surveillance Research, American Cancer Society, 250 Williams 
+Street, Northwest, Atlanta, GA 30303-1002, USA. Victoria.Stevens@cancer.org
+
+One-carbon metabolism mediates the interconversion of folates for the synthesis
+of precursors used in DNA synthesis, repair, and methylation. Inadequate folate
+nutrition or compromised metabolism can disrupt these processes and facilitate
+carcinogenesis. In this study, we investigated associations of 39 candidate
+single nucleotide polymorphisms (SNP) in 9 one-carbon metabolism genes with risk 
+of prostate cancer using 1,144 cases and 1,144 controls from the Cancer
+Prevention Study-II Nutrition Cohort. None of these SNPs were significantly
+associated with prostate cancer risk, either overall or in cases with advanced
+prostate cancer. Thus, our findings do not support the hypothesis that common
+genetic variation in one-carbon metabolism genes influences prostate cancer risk.
+
+DOI: 10.1158/1055-9965.EPI-08-0789 
+PMCID: PMC2645230
+PMID: 19064578  [Indexed for MEDLINE]
+
+
+3. Sci Rep. 2018 Jan 30;8(1):1881. doi: 10.1038/s41598-018-20194-7.
+
+Integrative genomic analysis of methylphenidate response in
+attention-deficit/hyperactivity disorder.
+
+Pagerols M(1)(2), Richarte V(2)(3)(4), Sánchez-Mora C(1)(2)(3), Rovira P(1)(2),
+Soler Artigas M(1)(3), Garcia-Martínez I(1)(2), Calvo-Sánchez E(1)(2), Corrales
+M(2)(4), da Silva BS(5), Mota NR(6)(7), Victor MM(7), Rohde LA(7)(8), Grevet
+EH(7)(8), Bau CHD(5)(7), Cormand B(9)(10)(11)(12), Casas M(1)(2)(3)(4),
+Ramos-Quiroga JA(1)(2)(3)(4), Ribasés M(13)(14)(15).
+
+Author information: 
+(1)Psychiatric Genetics Unit, Group of Psychiatry, Mental Health and Addiction,
+Vall d'Hebron Research Institute (VHIR), Universitat Autònoma de Barcelona,
+Barcelona, Spain.
+(2)Department of Psychiatry, Hospital Universitari Vall d'Hebron, Barcelona,
+Spain.
+(3)Biomedical Network Research Centre on Mental Health (CIBERSAM), Instituto de
+Salud Carlos III, Barcelona, Spain.
+(4)Department of Psychiatry and Legal Medicine, Universitat Autònoma de
+Barcelona, Barcelona, Spain.
+(5)Department of Genetics, Institute of Biosciences, Universidade Federal do Rio 
+Grande do Sul, Porto Alegre, Brazil.
+(6)Department of Human Genetics and Psychiatry, Donders Institute for Brain,
+Cognition and Behaviour, Radboud University Medical Centre, Nijmegen, The
+Netherlands.
+(7)ADHD Outpatient Program, Adult Division, Hospital de Clínicas de Porto Alegre,
+Porto Alegre, Brazil.
+(8)Department of Psychiatry, Faculty of Medicine, Universidade Federal do Rio
+Grande do Sul, Porto Alegre, Brazil.
+(9)Departament de Genètica, Microbiologia i Estadística, Facultat de Biologia,
+Universitat de Barcelona, Barcelona, Spain.
+(10)Centro de Investigación Biomédica en Red de Enfermedades Raras (CIBERER),
+Instituto de Salud Carlos III, Barcelona, Spain.
+(11)Institut de Biomedicina de la Universitat de Barcelona (IBUB), Barcelona,
+Spain.
+(12)Institut de Recerca Sant Joan de Déu (IR-SJD), Esplugues de Llobregat, Spain.
+(13)Psychiatric Genetics Unit, Group of Psychiatry, Mental Health and Addiction, 
+Vall d'Hebron Research Institute (VHIR), Universitat Autònoma de Barcelona,
+Barcelona, Spain. marta.ribases@vhir.org.
+(14)Department of Psychiatry, Hospital Universitari Vall d'Hebron, Barcelona,
+Spain. marta.ribases@vhir.org.
+(15)Biomedical Network Research Centre on Mental Health (CIBERSAM), Instituto de 
+Salud Carlos III, Barcelona, Spain. marta.ribases@vhir.org.
+
+Methylphenidate (MPH) is the most frequently used pharmacological treatment in
+children with attention-deficit/hyperactivity disorder (ADHD). However, a
+considerable interindividual variability exists in clinical outcome. Thus, we
+performed a genome-wide association study of MPH efficacy in 173 ADHD paediatric 
+patients. Although no variant reached genome-wide significance, the set of genes 
+containing single-nucleotide polymorphisms (SNPs) nominally associated with MPH
+response (P < 0.05) was significantly enriched for candidates previously studied 
+in ADHD or treatment outcome. We prioritised the nominally significant SNPs by
+functional annotation and expression quantitative trait loci (eQTL) analysis in
+human brain, and we identified 33 SNPs tagging cis-eQTL in 32 different loci
+(referred to as eSNPs and eGenes, respectively). Pathway enrichment analyses
+revealed an over-representation of genes involved in nervous system development
+and function among the eGenes. Categories related to neurological diseases,
+psychological disorders and behaviour were also significantly enriched. We
+subsequently meta-analysed the association with clinical outcome for the 33 eSNPs
+across the discovery sample and an independent cohort of 189 ADHD adult patients 
+(target sample) and we detected 15 suggestive signals. Following this
+comprehensive strategy, our results provide a better understanding of the
+molecular mechanisms implicated in MPH treatment effects and suggest promising
+candidates that may encourage future studies.
+
+DOI: 10.1038/s41598-018-20194-7 
+PMCID: PMC5789875
+PMID: 29382897  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------
+
+1. Am J Med Genet A. 2016 Nov;170(11):2777-2787. doi: 10.1002/ajmg.a.37874. Epub
+2016 Sep 8.
+
+Sequence variation in folate pathway genes and risks of human cleft lip with or
+without cleft palate.
+
+Marini NJ(1), Yang W(2), Asrani K(3), Witte JS(4), Rine J(3), Lammer EJ(5), Shaw 
+GM(2).
+
+Author information: 
+(1)Department of Molecular and Cellular Biology, California Institute for
+Quantitative Biosciences, University of California, Berkeley, California.
+nmarini@berkeley.edu.
+(2)Department of Pediatrics, Stanford University School of Medicine, Stanford,
+California.
+(3)Department of Molecular and Cellular Biology, California Institute for
+Quantitative Biosciences, University of California, Berkeley, California.
+(4)Department of Epidemiology and Biostatistics and Institute of Human Genetics, 
+University of California, San Francisco, California.
+(5)UCSF Benioff Children's Hospital Oakland, Oakland, California.
+
+In an effort to comprehensively interrogate genetic variation in the folate
+pathway for risk of cleft lip with or without cleft palate (CLP), we evaluated
+504 common and rare variants in 35 folate-related genes in a panel of 330 infants
+with CLP and 367 non-malformed controls. Odds ratios (OR) with 95% confidence
+intervals were computed for common genotypes. A Case-Control Difference metric
+was calculated for rare variants to highlight differentially occurring alleles.
+Interactions between variants and a maternal folate intake variable were also
+evaluated. In gene-only results, significant odds ratios were observed for
+multiple variants in the BHMT/BHMT2/DMGDH gene cluster, particularly in Hispanic 
+infants. Also in this cluster, rare variant analysis highlighted a substantial
+case-control difference in BHMT rs60340837 (synonymous Y284Y). In Hispanics, the 
+ALDH1L1 I812V variant (rs4646750) was the most significant risk allele: OR = 3.8 
+(95%CI = 1.6-9.2) when heterozygous. In non-Hispanic white infants, we observed
+significant risk for AHCYL2 rs1095423 (homozygous OR = 3.0, 95%CI 1.1-7.8) and
+the 68 bp CBS insertion (c.844ins68; heterozygous OR = 2.4, 95%CI = 1.1-5.3).
+Rare variant analysis in this group revealed case-control differences in MTRR and
+several other methionine cycle genes, a process implicated previously in clefting
+risk. In women with low folate intake specifically, increased risks were observed
+for CBS rs2851391 (OR = 3.6, 95%CI = 1.3-9.6) and the R259P nonsynonymous variant
+of TCN2 (rs1801198; OR = 2.8, 95%CI = 1.2-6.3). This comprehensive study provides
+further direction on candidate loci to help disentangle the folate-related
+developmental phenomena in human clefting risk. © 2016 Wiley Periodicals, Inc.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajmg.a.37874 
+PMCID: PMC5634616
+PMID: 27604992  [Indexed for MEDLINE]
+
+
+2. Br J Cancer. 2013 Jan 15;108(1):183-7. doi: 10.1038/bjc.2012.534. Epub 2013 Jan
+8.
+
+One-carbon metabolism factors and endometrial cancer risk.
+
+Liu JJ(1), Hazra A, Giovannucci E, Hankinson SE, Rosner B, De Vivo I.
+
+Author information: 
+(1)Department of Epidemiology, Harvard School of Public Health, Boston, MA 02115,
+USA. jasonjliu.jjl@gmail.com
+
+BACKGROUND: This is the largest prospective cohort analysis to assess how dietary
+factors involved in one-carbon metabolism are associated with endometrial cancer 
+incidence, using 26 years of follow-up data from the Nurses' Health Study.
+METHODS: The prospective cohort analysis of one-carbon metabolism dietary factors
+used the Cox proportional hazards model, and incorporated 788 incident
+endometrial cancer events from 1980 to 2006. Genotyping and unconditional
+logistic regression were performed on 572 endometrial cancer cases and their
+matched controls to examine 29 mostly non-synonymous single-nucleotide
+polymorphisms involved in one-carbon metabolism.
+RESULTS: There were no significant dose-response relationships between intake of 
+any of the one-carbon metabolism dietary factors and endometrial cancer
+incidence, but alcohol consumption of <1 drink a day was significantly protective
+(hazard ratio: 0.80; 95% CI: 0.68, 0.94). Those with the MTHFR 677 TT or MTHFR
+1298 CC genotype had more protective associations for many of the dietary factors
+and endometrial cancer, but statistical power was limited in this analysis.
+CONCLUSION: Dietary levels of folate, choline, methionine, vitamin B2, vitamin B6
+or vitamin B12 do not appear to influence endometrial cancer incidence. Moderate 
+alcohol intake may protect against developing endometrial cancer.
+
+DOI: 10.1038/bjc.2012.534 
+PMCID: PMC3553527
+PMID: 23299529  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------

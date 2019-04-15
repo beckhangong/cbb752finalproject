@@ -1,0 +1,90 @@
+Related Key Words Count for Gene: IGSF10
+==========================================================================
+
+SNP: rs6440742
+
+SNP: rs34114908
+Category: disease
+--------------------->
+	Colorectal Neoplasms@mesh@D015179	1
+Category: chemical
+--------------------->
+	Nitrogen@mesh@D009584	1
+Category: variant
+--------------------->
+	rs3812594@litvar@rs3812594##	1
+	rs199718023@litvar@rs199718023##	1
+	rs140721173@litvar@rs140721173##	1
+	rs201077220@litvar@rs201077220##	1
+	rs146828199@litvar@rs146828199##	1
+	rs61751543@litvar@rs61751543##	1
+	rs201059767@litvar@rs201059767##	1
+	rs619381@litvar@rs619381##	1
+	rs142024473@litvar@rs142024473##	1
+	rs139604652@litvar@rs139604652##	1
+Category: gene
+--------------------->
+	EPB41L4B@gene@54566	1
+	TRIOBP@gene@11078	1
+	SEC16A@gene@9919	1
+	GAL3ST1@gene@9514	1
+	DZIP1L@gene@199221	1
+	TAS2R7@gene@50837	1
+	NOTCH1@gene@4851	1
+	OR13C8@gene@138802	1
+	PCOLCE2@gene@26577	1
+	SF3A1@gene@10291	1
+
+SNP: rs7619322
+
+
+Related literatures for Gene: IGSF10
+==========================================================================
+
+1. BMC Genet. 2016 Feb 13;17:41. doi: 10.1186/s12863-016-0351-z.
+
+Exome sequencing in one family with gastric- and rectal cancer.
+
+Thutkawkorapin J(1), Picelli S(2)(3), Kontham V(4), Liu T(5), Nilsson D(6),
+Lindblom A(7).
+
+Author information: 
+(1)Karolinska Institutet, Department of Molecular Medicine and Surgery,
+Stockholm, Sweden. jessada.thutkawkorapin@ki.se.
+(2)Karolinska Institutet, Department of Molecular Medicine and Surgery,
+Stockholm, Sweden. simone.picelli@ki.se.
+(3)Eukaryotic Single Cell Genomics facility, Science for Life Laboratory,
+Stockholm, Sweden. simone.picelli@ki.se.
+(4)Karolinska Institutet, Department of Molecular Medicine and Surgery,
+Stockholm, Sweden. ksvinaykumar@gmail.com.
+(5)Karolinska Institutet, Department of Molecular Medicine and Surgery,
+Stockholm, Sweden. Tao.Liu@ki.se.
+(6)Karolinska Institutet, Department of Molecular Medicine and Surgery,
+Stockholm, Sweden. Daniel.Nilsson@ki.se.
+(7)Karolinska Institutet, Department of Molecular Medicine and Surgery,
+Stockholm, Sweden. Annika.Lindblom@ki.se.
+
+BACKGROUND: Heritable factors are well known to increase the risk of cancer in
+families. Known susceptibility genes account for a small proportion of all
+colorectal cancer cases. The aim of this study was to identify the genetic
+background in a family suggested to segregate a dominant cancer syndrome with a
+high risk of rectal- and gastric cancer. We performed whole exome sequencing in
+three family members, 2 with rectal cancer and 1 with gastric cancer and followed
+it up in additional family members, other patients and controls.
+RESULTS: We identified 12 novel non-synonymous single nucleotide variants, which 
+were shared among 5 affected members of this family. The mutations were found in 
+12 different genes; DZIP1L, PCOLCE2, IGSF10, SUCNR1, OR13C8, EPB41L4B, SEC16A,
+NOTCH1, TAS2R7, SF3A1, GAL3ST1, and TRIOBP. None of the mutations was suggested
+as a high penetrant mutation. It was not possible to completely rule out any of
+the mutations as contributing to disease, although seven were more unlikely than 
+the others. Neither did we rule out the effect of all thousands of intronic,
+intergenic and synonymous variants shared between the three persons used for
+exome sequencing.
+CONCLUSIONS: We propose this family, suggested to segregate dominant disease,
+could be an example of complex inheritance.
+
+DOI: 10.1186/s12863-016-0351-z 
+PMCID: PMC4752738
+PMID: 26872740  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------

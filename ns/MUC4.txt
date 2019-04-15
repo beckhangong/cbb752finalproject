@@ -1,0 +1,767 @@
+Related Key Words Count for Gene: MUC4
+==========================================================================
+
+SNP: rs2259102
+
+SNP: rs2453138
+
+SNP: rs882605
+Category: disease
+--------------------->
+	Infertility@mesh@D007246	1
+	Endometriosis@mesh@D004715	1
+Category: chemical
+--------------------->
+	isoleucyl-prolyl-proline@mesh@C489032	1
+Category: variant
+--------------------->
+	rs2258447@litvar@rs2258447##	1
+	rs2246901@litvar@rs2246901##	1
+	rs2688513@litvar@rs2688513##	1
+	rs882605@litvar@rs882605##	1
+	rs2291652@litvar@rs2291652##	1
+	rs1104760@litvar@rs1104760##	1
+Category: gene
+--------------------->
+	VWF@gene@7450	1
+	MUC4@gene@4585	1
+	SSX2@gene@6757	1
+	CT47A10@gene@728036	1
+	BAGE2@gene@85319	1
+
+SNP: rs2246901
+Category: disease
+--------------------->
+	Infertility@mesh@D007246	1
+	Endometriosis@mesh@D004715	1
+Category: gene
+--------------------->
+	MUC4@gene@4585	3
+	MUC2@gene@4583	1
+	CT47A10@gene@728036	1
+	SSX2@gene@6757	1
+	VWF@gene@7450	1
+	HLA-DRA@gene@3122	1
+	AGTR2@gene@186	1
+	SLC6A14@gene@11254	1
+	MUC20@gene@200958	1
+	APIP@gene@51074	1
+Category: chemical
+--------------------->
+	isoleucyl-prolyl-proline@mesh@C489032	1
+Category: variant
+--------------------->
+	rs2246901@litvar@rs2246901##	3
+	p.R502S@litvar@#56667#p.R502S	1
+	rs2258447@litvar@rs2258447##	1
+	rs1104760@litvar@rs1104760##	1
+	rs2291652@litvar@rs2291652##	1
+	rs116003090@litvar@rs116003090##	1
+	rs5952223@litvar@rs5952223##	1
+	rs3749615@litvar@rs3749615##	1
+	rs5905376@litvar@rs5905376##	1
+	p.508delF@litvar@#1080#p.508delF	1
+
+SNP: rs9882363
+
+SNP: rs62282486
+Category: variant
+--------------------->
+	rs2641776@litvar@rs2641776##	1
+	c.-1617delA@litvar@#6868#c.-1617delA	1
+	rs6705408@litvar@rs6705408##	1
+	rs12692386@litvar@rs12692386##	1
+	c.-1657C>G@litvar@#6868#c.-1657C>G	1
+	rs72625995@litvar@rs72625995##	1
+	rs3212210@litvar@rs3212210##	1
+	p.L310P@litvar@#728224#p.L310P	1
+	rs6503593@litvar@rs6503593##	1
+	rs6805660@litvar@rs6805660##	1
+Category: gene
+--------------------->
+	ADAM17@gene@6868	1
+	IL10RA@gene@3587	1
+	PTPN2@gene@5771	1
+	MUC4@gene@4585	1
+	GUCY2C@gene@2984	1
+	KRTAP4-8@gene@728224	1
+	HNF4A@gene@3172	1
+
+SNP: rs1106502
+
+SNP: rs2293232
+
+SNP: rs62282480
+Category: variant
+--------------------->
+	rs2641776@litvar@rs2641776##	1
+	c.-1617delA@litvar@#6868#c.-1617delA	1
+	rs6705408@litvar@rs6705408##	1
+	rs12692386@litvar@rs12692386##	1
+	c.-1657C>G@litvar@#6868#c.-1657C>G	1
+	rs72625995@litvar@rs72625995##	1
+	rs3212210@litvar@rs3212210##	1
+	p.L310P@litvar@#728224#p.L310P	1
+	rs6503593@litvar@rs6503593##	1
+	rs6805660@litvar@rs6805660##	1
+Category: gene
+--------------------->
+	ADAM17@gene@6868	1
+	IL10RA@gene@3587	1
+	PTPN2@gene@5771	1
+	MUC4@gene@4585	1
+	GUCY2C@gene@2984	1
+	KRTAP4-8@gene@728224	1
+	HNF4A@gene@3172	1
+
+SNP: rs2177336
+
+SNP: rs1104760
+Category: disease
+--------------------->
+	Endometriosis@mesh@D004715	1
+Category: chemical
+--------------------->
+	isoleucyl-prolyl-proline@mesh@C489032	1
+Category: variant
+--------------------->
+	rs882605@litvar@rs882605##	1
+	rs2246901@litvar@rs2246901##	1
+	rs2291652@litvar@rs2291652##	1
+	rs2258447@litvar@rs2258447##	1
+	rs1104760@litvar@rs1104760##	1
+	rs2688513@litvar@rs2688513##	1
+Category: gene
+--------------------->
+	BAGE2@gene@85319	1
+	SSX2@gene@6757	1
+	CT47A10@gene@728036	1
+
+SNP: rs202060675
+Category: variant
+--------------------->
+	rs2641776@litvar@rs2641776##	1
+	c.-1617delA@litvar@#6868#c.-1617delA	1
+	rs6705408@litvar@rs6705408##	1
+	rs12692386@litvar@rs12692386##	1
+	c.-1657C>G@litvar@#6868#c.-1657C>G	1
+	rs72625995@litvar@rs72625995##	1
+	rs3212210@litvar@rs3212210##	1
+	p.L310P@litvar@#728224#p.L310P	1
+	rs6503593@litvar@rs6503593##	1
+	rs6805660@litvar@rs6805660##	1
+Category: gene
+--------------------->
+	ADAM17@gene@6868	1
+	IL10RA@gene@3587	1
+	PTPN2@gene@5771	1
+	MUC4@gene@4585	1
+	GUCY2C@gene@2984	1
+	KRTAP4-8@gene@728224	1
+	HNF4A@gene@3172	1
+
+SNP: rs2641776
+Category: gene
+--------------------->
+	MUC4@gene@4585	1
+	IL10RA@gene@3587	1
+	PTPN2@gene@5771	1
+	GUCY2C@gene@2984	1
+	HNF4A@gene@3172	1
+	KRTAP4-8@gene@728224	1
+	ADAM17@gene@6868	1
+Category: variant
+--------------------->
+	p.L310P@litvar@#728224#p.L310P	1
+	c.*1506G>A@litvar@#6868#c.*1506G>A	1
+	rs72625995@litvar@rs72625995##	1
+	rs3212210@litvar@rs3212210##	1
+	rs78550130@litvar@rs78550130##	1
+	rs72625994@litvar@rs72625994##	1
+	rs746666617@litvar@rs746666617##	1
+	rs2641776@litvar@rs2641776##	1
+	rs3833563@litvar@rs3833563##	1
+	rs12692386@litvar@rs12692386##	1
+
+SNP: rs3107764
+
+SNP: rs2259292
+Category: disease
+--------------------->
+	Amino Acid Metabolism, Inborn Errors@mesh@D000592	1
+Category: variant
+--------------------->
+	rs4962@litvar@rs4962##	1
+	rs1805005@litvar@rs1805005##	1
+	rs3917991@litvar@rs3917991##	1
+	rs1048425@litvar@rs1048425##	1
+	rs1800440@litvar@rs1800440##	1
+	rs2250889@litvar@rs2250889##	1
+	rs9658667@litvar@rs9658667##	1
+	rs3027956@litvar@rs3027956##	1
+	rs199881197@litvar@rs199881197##	1
+	rs4151648@litvar@rs4151648##	1
+Category: gene
+--------------------->
+	EPHX1@gene@2052	1
+	PLAUR@gene@5329	1
+	FPR1@gene@2357	1
+	ERBB2@gene@2064	1
+	CDH12@gene@1010	1
+	CYP11B1@gene@1584	1
+	TUBA4A@gene@7277	1
+	AXIN2@gene@8313	1
+	MNDA@gene@4332	1
+	CSF3R@gene@1441	1
+
+SNP: rs74507812
+
+SNP: rs729593
+
+SNP: rs2550240
+
+SNP: rs374495657
+Category: variant
+--------------------->
+	rs2641776@litvar@rs2641776##	1
+	c.-1617delA@litvar@#6868#c.-1617delA	1
+	rs6705408@litvar@rs6705408##	1
+	rs12692386@litvar@rs12692386##	1
+	c.-1657C>G@litvar@#6868#c.-1657C>G	1
+	rs72625995@litvar@rs72625995##	1
+	rs3212210@litvar@rs3212210##	1
+	p.L310P@litvar@#728224#p.L310P	1
+	rs6503593@litvar@rs6503593##	1
+	rs6805660@litvar@rs6805660##	1
+Category: gene
+--------------------->
+	ADAM17@gene@6868	1
+	IL10RA@gene@3587	1
+	PTPN2@gene@5771	1
+	MUC4@gene@4585	1
+	GUCY2C@gene@2984	1
+	KRTAP4-8@gene@728224	1
+	HNF4A@gene@3172	1
+
+SNP: rs430037
+
+SNP: rs13095016
+
+
+Related literatures for Gene: MUC4
+==========================================================================
+
+1. BMC Med. 2011 Feb 24;9:19. doi: 10.1186/1741-7015-9-19.
+
+MUC4 gene polymorphisms associate with endometriosis development and
+endometriosis-related infertility.
+
+Chang CY(1), Chang HW, Chen CM, Lin CY, Chen CP, Lai CH, Lin WY, Liu HP, Sheu JJ,
+Tsai FJ.
+
+Author information: 
+(1)Human Genetic Center, China Medical University Hospital, Taichung, Taiwan.
+
+BACKGROUND: Mucin 4 (MUC4) plays an important role in protecting and lubricating 
+the epithelial surface of reproductive tracts, but its role in the pathogenesis
+of endometriosis is largely unknown.
+METHODS: To correlate MUC4 polymorphism with the risk of endometriosis and
+endometriosis-related infertility, we performed a case-control study of 140
+patients and 150 healthy women. Six unique single-nucleotide polymorphisms (SNPs)
+(rs882605, rs1104760, rs2688513, rs2246901, rs2258447 and rs2291652) were
+selected for this study. DNA fragments containing the target SNP sites were
+amplified by polymerase chain reaction using the TaqMan SNP Genotyping Assay
+System to evaluate allele frequency and distribution of genotype in MUC4
+polymorphisms.
+RESULTS: Both the T/G genotype of rs882605 and the frequency of haplotype T-T
+(rs882605 and rs1104760) were higher in patients than in controls and were
+statistically significant. The frequency of the C allele at rs1104760, the C
+allele at rs2688513, the G allele at rs2246901 and the A allele at rs2258447 were
+associated with advanced stage of endometriosis. Moreover, the G allele at
+rs882605 was verified as a key genetic factor for infertility in patients.
+Protein sequence analysis indicated that amino acid substitutions by genetic
+variations at rs882605, rs2688513 and rs2246901 occur in the putative functional 
+loops and the type D von Willebrand factor (VWFD) domain in the MUC4 sequence.
+CONCLUSIONS: MUC4 polymorphisms are associated with endometriosis development and
+endometriosis-related infertility in the Taiwanese population.
+
+DOI: 10.1186/1741-7015-9-19 
+PMCID: PMC3052195
+PMID: 21349170  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------
+
+1. J Infect Dis. 2011 Oct 1;204(7):1031-7. doi: 10.1093/infdis/jir493.
+
+Genetic variants and susceptibility to neurological complications following West 
+Nile virus infection.
+
+Loeb M(1), Eskandarian S, Rupp M, Fishman N, Gasink L, Patterson J, Bramson J,
+Hudson TJ, Lemire M.
+
+Author information: 
+(1)Department of Medicine, Clinical Epidemiology, and Biostatistics, McMaster
+University, Hamilton, Ontario. loebm@mcmaster.ca
+
+To determine genetic factors predisposing to neurological complications following
+West Nile virus infection, we analyzed a cohort of 560 neuroinvasive case
+patients and 950 control patients for 13 371 mostly nonsynonymous
+single-nucleotide polymorphisms (SNPs). The top 3 SNPs on the basis of
+statistical significance were also in genes of biological plausibility: rs2066786
+in RFC1 (replication factor C1) (P = 1.88 × 10(-5); odds ratio [OR], 0.68 [95%
+confidence interval {CI}, .56-.81]); rs2298771 in SCN1A (sodium channel, neuronal
+type I α subunit) (P = 5.87 × 10(-5); OR, 1.47 [95% CI, 1.21-1.77]); and rs25651 
+in ANPEP (ananyl aminopeptidase) (P = 1.44 × 10(-4); OR, 0.69 [95% CI, .56-.83]).
+Additional genotyping of these SNPs in a separate sample of 264 case patients and
+296 control patients resulted in a lack of significance in the replication
+cohort; joint significance was as follows: rs2066786, P = .0022; rs2298771, P =
+.005; rs25651, P = .042. Using mostly nonsynonymous variants, we therefore did
+not identify genetic variants associated with neuroinvasive disease.
+
+DOI: 10.1093/infdis/jir493 
+PMCID: PMC3203390
+PMID: 21881118  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------
+
+1. Gut. 2014 Aug;63(8):1367-8. doi: 10.1136/gutjnl-2013-306555. Epub 2014 Feb 14.
+
+Mevalonate kinase deficiency and IBD: shared genetic background.
+
+Bianco AM(1), Girardelli M(1), Vozzi D(1), Crovella S(2), Kleiner G(1), Marcuzzi 
+A(1).
+
+Author information: 
+(1)Health Genetics Unit, Institute for Maternal and Child Health-IRCCS "Burlo
+Garofolo", Trieste, Italy.
+(2)Health Genetics Unit, Institute for Maternal and Child Health-IRCCS "Burlo
+Garofolo", Trieste, Italy Medicine, Surgery and Health Sciences Department,
+University of Trieste, Trieste, Italy.
+
+Comment on
+    Gut. 2013 Dec;62(12):1795-805.
+
+DOI: 10.1136/gutjnl-2013-306555 
+PMCID: PMC4112436
+PMID: 24531851  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------
+
+1. J Infect Dis. 2011 Oct 1;204(7):1031-7. doi: 10.1093/infdis/jir493.
+
+Genetic variants and susceptibility to neurological complications following West 
+Nile virus infection.
+
+Loeb M(1), Eskandarian S, Rupp M, Fishman N, Gasink L, Patterson J, Bramson J,
+Hudson TJ, Lemire M.
+
+Author information: 
+(1)Department of Medicine, Clinical Epidemiology, and Biostatistics, McMaster
+University, Hamilton, Ontario. loebm@mcmaster.ca
+
+To determine genetic factors predisposing to neurological complications following
+West Nile virus infection, we analyzed a cohort of 560 neuroinvasive case
+patients and 950 control patients for 13 371 mostly nonsynonymous
+single-nucleotide polymorphisms (SNPs). The top 3 SNPs on the basis of
+statistical significance were also in genes of biological plausibility: rs2066786
+in RFC1 (replication factor C1) (P = 1.88 × 10(-5); odds ratio [OR], 0.68 [95%
+confidence interval {CI}, .56-.81]); rs2298771 in SCN1A (sodium channel, neuronal
+type I α subunit) (P = 5.87 × 10(-5); OR, 1.47 [95% CI, 1.21-1.77]); and rs25651 
+in ANPEP (ananyl aminopeptidase) (P = 1.44 × 10(-4); OR, 0.69 [95% CI, .56-.83]).
+Additional genotyping of these SNPs in a separate sample of 264 case patients and
+296 control patients resulted in a lack of significance in the replication
+cohort; joint significance was as follows: rs2066786, P = .0022; rs2298771, P =
+.005; rs25651, P = .042. Using mostly nonsynonymous variants, we therefore did
+not identify genetic variants associated with neuroinvasive disease.
+
+DOI: 10.1093/infdis/jir493 
+PMCID: PMC3203390
+PMID: 21881118  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------
+
+1. Nat Commun. 2015 Sep 29;6:8382. doi: 10.1038/ncomms9382.
+
+Genome-wide association meta-analysis identifies five modifier loci of lung
+disease severity in cystic fibrosis.
+
+Corvol H(1)(2), Blackman SM(3), Boëlle PY(2)(4), Gallins PJ(5), Pace RG(6),
+Stonebraker JR(6), Accurso FJ(7)(8)(9), Clement A(1)(2), Collaco JM(10), Dang
+H(6), Dang AT(6), Franca A(11), Gong J(12), Guillot L(1), Keenan K(13), Li W(12),
+Lin F(12), Patrone MV(6), Raraigh KS(11), Sun L(14)(15), Zhou YH(16), O'Neal
+WK(6), Sontag MK(7)(8)(9), Levy H(17), Durie PR(13)(18), Rommens JM(12)(19),
+Drumm ML(20), Wright FA(21)(22), Strug LJ(12)(15), Cutting GR(11)(23), Knowles
+MR(6).
+
+Author information: 
+(1)Assistance Publique-Hôpitaux de Paris (AP-HP), Hôpital Trousseau, Pediatric
+Pulmonary Department; Institut National de la Santé et la Recherche Médicale
+(INSERM) U938, Paris 75012, France.
+(2)Sorbonne Universités, Université Pierre et Marie Curie (UPMC) Paris 06, Paris 
+75005, France.
+(3)Division of Pediatric Endocrinology, Johns Hopkins University School of
+Medicine, Baltimore, Maryland 21287, USA.
+(4)AP-HP, Hôpital St Antoine, Biostatistics Department; Inserm U1136, Paris
+75012, France.
+(5)Department of Genetics, University of North Carolina at Chapel Hill, Chapel
+Hill, North Carolina 27599, USA.
+(6)Marsico Lung Institute/UNC CF Research Center, School of Medicine, University 
+of North Carolina at Chapel Hill, Chapel Hill, North Carolina 27599, USA.
+(7)Department of Epidemiology, Colorado School of Public Health, University of
+Colorado Denver, Anschutz Medical Center, Aurora, Colorado 80045, USA.
+(8)Children's Hospital Colorado, Anschutz Medical Center, Aurora, Colorado 80045,
+USA.
+(9)Department of Pediatrics, School of Medicine, Anschutz Medical Center, Aurora,
+Colorado 80045, USA.
+(10)Division of Pediatric Pulmonology, Johns Hopkins University School of
+Medicine, Baltimore, Maryland 21287, USA.
+(11)McKusick-Nathans Institute of Genetic Medicine, Johns Hopkins University
+School of Medicine, Baltimore, Maryland 21287, USA.
+(12)Program in Genetics and Genome Biology, The Hospital for Sick Children,
+Toronto, Ontario, Canada M5G 0A4.
+(13)Program in Physiology and Experimental Medicine, The Hospital for Sick
+Children, Toronto, Ontario, Canada M5G 0A4.
+(14)Department of Statistical Sciences, University of Toronto, Toronto, Ontario, 
+Canada M5S 3G3.
+(15)Division of Biostatistics, Dalla Lana School of Public Health, University of 
+Toronto, Toronto, Ontario, Canada M5T 3M7.
+(16)Bioinformatics Research Center and Department of Biological Sciences, North
+Carolina State University, Raleigh, North Carolina 27695, USA.
+(17)Division of Pulmonary Medicine, Department of Pediatrics, Stanley Manne
+Research Institute, Northwestern University Feinberg School of Medicine, Ann and 
+Robert Lurie Children's Hospital of Chicago, Chicago, Illinois 60611, USA.
+(18)Department of Pediatrics, University of Toronto, Toronto, Ontario M5G 1X8,
+Canada.
+(19)Department of Molecular Genetics, University of Toronto, Toronto, Ontario,
+Canada M5S 1A8.
+(20)Department of Pediatrics, School of Medicine, Case Western Reserve
+University, Cleveland, Ohio 44106, USA.
+(21)Bioinformatics Research Center and Department of Statistics, North Carolina
+State University, Raleigh, North Carolina 27695, USA.
+(22)Department of Biological Sciences, North Carolina State University, Raleigh, 
+North Carolina 27695, USA.
+(23)Department of Pediatrics, Johns Hopkins University School of Medicine,
+Baltimore, Maryland 21287, USA.
+
+The identification of small molecules that target specific CFTR variants has
+ushered in a new era of treatment for cystic fibrosis (CF), yet optimal,
+individualized treatment of CF will require identification and targeting of
+disease modifiers. Here we use genome-wide association analysis to identify
+genetic modifiers of CF lung disease, the primary cause of mortality.
+Meta-analysis of 6,365 CF patients identifies five loci that display significant 
+association with variation in lung disease. Regions on chr3q29 (MUC4/MUC20; P=3.3
+× 10(-11)), chr5p15.3 (SLC9A3; P=6.8 × 10(-12)), chr6p21.3 (HLA Class II; P=1.2 ×
+10(-8)) and chrXq22-q23 (AGTR2/SLC6A14; P=1.8 × 10(-9)) contain genes of high
+biological relevance to CF pathophysiology. The fifth locus, on chr11p12-p13
+(EHF/APIP; P=1.9 × 10(-10)), was previously shown to be associated with lung
+disease. These results provide new insights into potential targets for modulating
+lung disease severity in CF.
+
+DOI: 10.1038/ncomms9382 
+PMCID: PMC4589222
+PMID: 26417704  [Indexed for MEDLINE]
+
+
+2. BMC Med. 2011 Feb 24;9:19. doi: 10.1186/1741-7015-9-19.
+
+MUC4 gene polymorphisms associate with endometriosis development and
+endometriosis-related infertility.
+
+Chang CY(1), Chang HW, Chen CM, Lin CY, Chen CP, Lai CH, Lin WY, Liu HP, Sheu JJ,
+Tsai FJ.
+
+Author information: 
+(1)Human Genetic Center, China Medical University Hospital, Taichung, Taiwan.
+
+BACKGROUND: Mucin 4 (MUC4) plays an important role in protecting and lubricating 
+the epithelial surface of reproductive tracts, but its role in the pathogenesis
+of endometriosis is largely unknown.
+METHODS: To correlate MUC4 polymorphism with the risk of endometriosis and
+endometriosis-related infertility, we performed a case-control study of 140
+patients and 150 healthy women. Six unique single-nucleotide polymorphisms (SNPs)
+(rs882605, rs1104760, rs2688513, rs2246901, rs2258447 and rs2291652) were
+selected for this study. DNA fragments containing the target SNP sites were
+amplified by polymerase chain reaction using the TaqMan SNP Genotyping Assay
+System to evaluate allele frequency and distribution of genotype in MUC4
+polymorphisms.
+RESULTS: Both the T/G genotype of rs882605 and the frequency of haplotype T-T
+(rs882605 and rs1104760) were higher in patients than in controls and were
+statistically significant. The frequency of the C allele at rs1104760, the C
+allele at rs2688513, the G allele at rs2246901 and the A allele at rs2258447 were
+associated with advanced stage of endometriosis. Moreover, the G allele at
+rs882605 was verified as a key genetic factor for infertility in patients.
+Protein sequence analysis indicated that amino acid substitutions by genetic
+variations at rs882605, rs2688513 and rs2246901 occur in the putative functional 
+loops and the type D von Willebrand factor (VWFD) domain in the MUC4 sequence.
+CONCLUSIONS: MUC4 polymorphisms are associated with endometriosis development and
+endometriosis-related infertility in the Taiwanese population.
+
+DOI: 10.1186/1741-7015-9-19 
+PMCID: PMC3052195
+PMID: 21349170  [Indexed for MEDLINE]
+
+
+3. J Mol Med (Berl). 2006 Dec;84(12):1055-66. Epub 2006 Oct 21.
+
+Aberrant intestinal expression and allelic variants of mucin genes associated
+with inflammatory bowel disease.
+
+Moehle C(1), Ackermann N, Langmann T, Aslanidis C, Kel A, Kel-Margoulis O,
+Schmitz-Madry A, Zahn A, Stremmel W, Schmitz G.
+
+Author information: 
+(1)Institut für Klinische Chemie und Laboratoriumsmedizin, Universitätsklinikum
+Regensburg, Franz-Josef-Strauss-Allee 11, 93042, Regensburg, Germany.
+
+Loss of intestinal mucosa integrity is an important factor in the pathogenesis of
+inflammatory bowel disease (IBD). The aim of this study was to characterize
+expression changes and allelic variants of genes related to intestinal epithelial
+barrier function in this disease. Therefore, ileal and colonic mucosal biopsies
+from nonaffected regions of patients with ulcerative colitis (UC) and Crohn's
+disease (CD), as well as non-IBD probands, were subjected to Affymetrix
+DNA-microarray analysis. Real-time reverse transcription polymerase chain
+reaction was used for verification in larger IBD sample numbers. Disturbed mRNA
+expression was identified for several mucin genes in both disease groups and
+tissues. A significant downregulation in the colon was obtained for MUC2 in CD
+and MUC12 in CD and UC. Expression analysis of all dysregulated mucins in a broad
+human tissue panel revealed dominant epithelial tissue-specific transcription. In
+silico analysis of the regulatory regions of these mucins indicated nuclear
+factor kappaB (NFkappaB) binding sites in each promoter. Furthermore, NFkappaB
+was overrepresented in mucin promoters and a component of a specific combination 
+of transcription factors (composite module). In vivo stimulation experiments in
+the adenocarcinoma cell line LS174T showed inducible mucin expression by the
+cytokines tumor necrosis factor-alpha and transforming growth factor-beta, which 
+could be blocked by NFkappaB signaling inhibitors. Allelic discrimination
+screening obtained statistically significant associations for the MUC2-V116M (P =
+0.003) polymorphism with CD and for MUC4-A585S (P = 0.025), as well as
+MUC13-R502S (P = 0.0003) with UC. These data suggest that the disturbed
+expression of mucin genes and the connection to the NFkappaB pathway may
+influence the integrity of the intestine and therefore contribute to the
+pathophysiology of IBD.
+
+DOI: 10.1007/s00109-006-0100-2 
+PMID: 17058067  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------
+
+1. Hum Genomics. 2006 Mar;2(5):287-96.
+
+Functional nsSNPs from carcinogenesis-related genes expressed in breast tissue:
+potential breast cancer risk alleles and their distribution across human
+populations.
+
+Savas S(1), Schmidt S, Jarjanazi H, Ozcelik H.
+
+Author information: 
+(1)Fred A. Litwin Centre for Cancer Genetics, Samuel Lunenfeld Research
+Institute, Mount Sinai Hospital, Toronto, ON, M5G 1X5, Canada.
+
+Although highly penetrant alleles of BRCA1 and BRCA2 have been shown to
+predispose to breast cancer, the majority of breast cancer cases are assumed to
+result from the presence of low-moderate penetrant alleles and environmental
+carcinogens. Non-synonymous single nucleotide polymorphisms (nsSNPs) are
+hypothesised to contribute to disease susceptibility and approximately 30 per
+cent of them are predicted to have a biological significance. In this study, we
+have applied a bioinformatics-based strategy to identify breast cancer-related
+nsSNPs from 981 carcinogenesis-related genes expressed in breast tissue. Our
+results revealed a total of 367 validated nsSNPs, 109 (29.7 per cent) of which
+are predicted to affect the protein function (functional nsSNPs), suggesting that
+these nsSNPs are likely to influence the development and homeostasis of breast
+tissue and hence contribute to breast cancer susceptibility. Sixty-seven of the
+functional nsSNPs presented as commonly occurring nsSNPs (minor allele
+frequencies > or =5 per cent), representing excellent candidates for breast
+cancer susceptibility. Additionally, a non-uniform distribution of the common
+functional nsSNPs among different human populations was observed: 15 nsSNPs were 
+reported to be present in all populations analysed, whereas another set of 15
+nsSNPs was specific to particular population(s). We propose that the nsSNPs
+analysed in this study constitute a unique resource of potential genetic factors 
+for breast cancer susceptibility. Furthermore, the variations in functional nsSNP
+allele frequencies across major population backgrounds may point to the potential
+variability of the molecular basis of breast cancer predisposition and treatment 
+response among different human populations.
+
+
+PMCID: PMC3500178
+PMID: 16595073  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------
+
+1. Toxicol Res. 2016 Jul;32(3):195-205. doi: 10.5487/TR.2016.32.3.195. Epub 2016 Jul
+30.
+
+Allele Frequencies of the Single Nucleotide Polymorphisms Related to the Body
+Burden of Heavy Metals in the Korean Population and Their Ethnic Differences.
+
+Eom SY(1), Lim JA(2), Kim YD(1), Choi BS(3), Hwang MS(4), Park JD(3), Kim H(1),
+Kwon HJ(2).
+
+Author information: 
+(1)Department of Preventive Medicine, College of Medicine, Chungbuk National
+University, Cheongju, Korea.
+(2)Department of Preventive Medicine, Dankook University College of Medicine,
+Cheonan, Korea.
+(3)Department of Preventive Medicine, Chung-Ang University College of Medicine,
+Seoul, Korea.
+(4)Food Risk Analysis Division, National Institute of Food and Drug Safety
+Evaluation, Cheongju, Korea.
+
+This study was performed to select single nucleotide polymorphisms (SNPs) related
+to the body burden of heavy metals in Koreans, to provide Korean allele
+frequencies of selected SNPs, and to assess the difference in allele frequencies 
+with other ethnicities. The candidate-gene approach method and genome-wide
+association screening were used to select SNPs related to the body burden of
+heavy metals. Genotyping analysis of the final 192 SNPs selected was performed on
+1,483 subjects using the VeraCode Goldengate assay. Allele frequencies
+differences and genetic differentiations between the Korean population and
+Chinese (CHB), Japanese (JPT), Caucasian (CEU), and African (YIR) populations
+were tested by Fisher's exact test and fixation index (F ST), respectively. The
+Korean population was genetically similar to the CHB and JPT populations (F ST < 
+0.05, for all SNPs in both populations). However, a significant difference in the
+allele frequencies between the Korean and CEU and YIR populations were observed
+in 99 SNPs (60.7%) and 120 SNPs (73.6%), respectively. Ten (6.1%) and 26 (16.0%) 
+SNPs had genetic differentiation (F ST > 0.05) among the Korean-CEU and
+Korean-YIR comparisons, respectively. The SNP with the largest F ST value between
+the Korean and African populations was cystathionine-β-synthase rs234709 (F ST:
+KOR-YIR, 0.309; KOR-CEU, 0.064). Our study suggests that interethnic differences 
+exist in SNPs associated with heavy metals of Koreans, and it should be
+considered in future studies that address ethnic differences in heavy-metal
+concentrations in the body and genetic susceptibility to the body burden of heavy
+metals.
+
+DOI: 10.5487/TR.2016.32.3.195 
+PMCID: PMC4946415
+PMID: 27437086 
+
+----------------------------------------------------------------------------
+
+1. Gut. 2014 Aug;63(8):1367-8. doi: 10.1136/gutjnl-2013-306555. Epub 2014 Feb 14.
+
+Mevalonate kinase deficiency and IBD: shared genetic background.
+
+Bianco AM(1), Girardelli M(1), Vozzi D(1), Crovella S(2), Kleiner G(1), Marcuzzi 
+A(1).
+
+Author information: 
+(1)Health Genetics Unit, Institute for Maternal and Child Health-IRCCS "Burlo
+Garofolo", Trieste, Italy.
+(2)Health Genetics Unit, Institute for Maternal and Child Health-IRCCS "Burlo
+Garofolo", Trieste, Italy Medicine, Surgery and Health Sciences Department,
+University of Trieste, Trieste, Italy.
+
+Comment on
+    Gut. 2013 Dec;62(12):1795-805.
+
+DOI: 10.1136/gutjnl-2013-306555 
+PMCID: PMC4112436
+PMID: 24531851  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------
+
+1. Gut. 2014 Aug;63(8):1367-8. doi: 10.1136/gutjnl-2013-306555. Epub 2014 Feb 14.
+
+Mevalonate kinase deficiency and IBD: shared genetic background.
+
+Bianco AM(1), Girardelli M(1), Vozzi D(1), Crovella S(2), Kleiner G(1), Marcuzzi 
+A(1).
+
+Author information: 
+(1)Health Genetics Unit, Institute for Maternal and Child Health-IRCCS "Burlo
+Garofolo", Trieste, Italy.
+(2)Health Genetics Unit, Institute for Maternal and Child Health-IRCCS "Burlo
+Garofolo", Trieste, Italy Medicine, Surgery and Health Sciences Department,
+University of Trieste, Trieste, Italy.
+
+Comment on
+    Gut. 2013 Dec;62(12):1795-805.
+
+DOI: 10.1136/gutjnl-2013-306555 
+PMCID: PMC4112436
+PMID: 24531851  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------
+
+1. Gut. 2014 Aug;63(8):1367-8. doi: 10.1136/gutjnl-2013-306555. Epub 2014 Feb 14.
+
+Mevalonate kinase deficiency and IBD: shared genetic background.
+
+Bianco AM(1), Girardelli M(1), Vozzi D(1), Crovella S(2), Kleiner G(1), Marcuzzi 
+A(1).
+
+Author information: 
+(1)Health Genetics Unit, Institute for Maternal and Child Health-IRCCS "Burlo
+Garofolo", Trieste, Italy.
+(2)Health Genetics Unit, Institute for Maternal and Child Health-IRCCS "Burlo
+Garofolo", Trieste, Italy Medicine, Surgery and Health Sciences Department,
+University of Trieste, Trieste, Italy.
+
+Comment on
+    Gut. 2013 Dec;62(12):1795-805.
+
+DOI: 10.1136/gutjnl-2013-306555 
+PMCID: PMC4112436
+PMID: 24531851  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------
+
+1. Gut. 2014 Aug;63(8):1367-8. doi: 10.1136/gutjnl-2013-306555. Epub 2014 Feb 14.
+
+Mevalonate kinase deficiency and IBD: shared genetic background.
+
+Bianco AM(1), Girardelli M(1), Vozzi D(1), Crovella S(2), Kleiner G(1), Marcuzzi 
+A(1).
+
+Author information: 
+(1)Health Genetics Unit, Institute for Maternal and Child Health-IRCCS "Burlo
+Garofolo", Trieste, Italy.
+(2)Health Genetics Unit, Institute for Maternal and Child Health-IRCCS "Burlo
+Garofolo", Trieste, Italy Medicine, Surgery and Health Sciences Department,
+University of Trieste, Trieste, Italy.
+
+Comment on
+    Gut. 2013 Dec;62(12):1795-805.
+
+DOI: 10.1136/gutjnl-2013-306555 
+PMCID: PMC4112436
+PMID: 24531851  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------
+
+1. BMC Med. 2011 Feb 24;9:19. doi: 10.1186/1741-7015-9-19.
+
+MUC4 gene polymorphisms associate with endometriosis development and
+endometriosis-related infertility.
+
+Chang CY(1), Chang HW, Chen CM, Lin CY, Chen CP, Lai CH, Lin WY, Liu HP, Sheu JJ,
+Tsai FJ.
+
+Author information: 
+(1)Human Genetic Center, China Medical University Hospital, Taichung, Taiwan.
+
+BACKGROUND: Mucin 4 (MUC4) plays an important role in protecting and lubricating 
+the epithelial surface of reproductive tracts, but its role in the pathogenesis
+of endometriosis is largely unknown.
+METHODS: To correlate MUC4 polymorphism with the risk of endometriosis and
+endometriosis-related infertility, we performed a case-control study of 140
+patients and 150 healthy women. Six unique single-nucleotide polymorphisms (SNPs)
+(rs882605, rs1104760, rs2688513, rs2246901, rs2258447 and rs2291652) were
+selected for this study. DNA fragments containing the target SNP sites were
+amplified by polymerase chain reaction using the TaqMan SNP Genotyping Assay
+System to evaluate allele frequency and distribution of genotype in MUC4
+polymorphisms.
+RESULTS: Both the T/G genotype of rs882605 and the frequency of haplotype T-T
+(rs882605 and rs1104760) were higher in patients than in controls and were
+statistically significant. The frequency of the C allele at rs1104760, the C
+allele at rs2688513, the G allele at rs2246901 and the A allele at rs2258447 were
+associated with advanced stage of endometriosis. Moreover, the G allele at
+rs882605 was verified as a key genetic factor for infertility in patients.
+Protein sequence analysis indicated that amino acid substitutions by genetic
+variations at rs882605, rs2688513 and rs2246901 occur in the putative functional 
+loops and the type D von Willebrand factor (VWFD) domain in the MUC4 sequence.
+CONCLUSIONS: MUC4 polymorphisms are associated with endometriosis development and
+endometriosis-related infertility in the Taiwanese population.
+
+DOI: 10.1186/1741-7015-9-19 
+PMCID: PMC3052195
+PMID: 21349170  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------

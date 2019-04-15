@@ -1,0 +1,361 @@
+Related Key Words Count for Gene: COL6A5
+==========================================================================
+
+SNP: rs12488457
+
+SNP: rs819085
+
+SNP: rs16827497
+
+SNP: rs322117
+Category: gene
+--------------------->
+	COL6A5@gene@256076	1
+Category: variant
+--------------------->
+	rs322117@litvar@rs322117##	1
+Category: disease
+--------------------->
+	Asthma@mesh@D001249	1
+
+SNP: rs1497312
+
+SNP: rs9883988
+
+
+Related literatures for Gene: COL6A5
+==========================================================================
+
+1. Nat Commun. 2016 Feb 2;7:10464. doi: 10.1038/ncomms10464.
+
+Joint mouse-human phenome-wide association to test gene function and disease
+risk.
+
+Wang X(1)(2), Pandey AK(1), Mulligan MK(1), Williams EG(3), Mozhui K(1), Li Z(1),
+Jovaisaite V(3), Quarles LD(4), Xiao Z(4), Huang J(1)(4), Capra JA(5), Chen Z(6),
+Taylor WL(7), Bastarache L(5), Niu X(5), Pollard KS(8)(9), Ciobanu DC(1)(10),
+Reznik AO(11), Tishkov AV(11), Zhulin IB(11), Peng J(2), Nelson SF(6), Denny
+JC(5)(12), Auwerx J(3), Lu L(1), Williams RW(1).
+
+Author information: 
+(1)Department of Genetics, Genomics and Informatics, University of Tennessee
+Health Science Center, Memphis, Tennessee 38163, USA.
+(2)St Jude Proteomics Facility, St Jude Children's Research Hospital, Memphis,
+Tennessee 38105, USA.
+(3)Laboratory of Integrative and Systems Physiology, School of Life Sciences,
+École Polytechnique Fédérale de Lausanne, Lausanne 1015, Switzerland.
+(4)Department of Medicine, University of Tennessee Health Science Center,
+Memphis, Tennessee 38163, USA.
+(5)Department of Biomedical Informatics, Vanderbilt University School of
+Medicine, Nashville, Tennessee 37232, USA.
+(6)Department of Human Genetics, University of California, Los Angeles,
+California 90095, USA.
+(7)Molecular Resource Center, University of Tennessee Health Science Center,
+Memphis, Tennessee 38163, USA.
+(8)Gladstone Institutes, San Francisco, California 94158, USA.
+(9)Division of Biostatistics and Institute for Human Genetics, University of
+California, San Francisco, California 94158, USA.
+(10)Animal Science Department, University of Nebraska, Lincoln, Nebraska 68583,
+USA.
+(11)Joint Institute for Computational Sciences, University of Tennessee-Oak Ridge
+National Laboratory, Oak Ridge, Tennessee 37831, USA.
+(12)Department of Medicine, Vanderbilt University School of Medicine, Nashville, 
+Tennessee 37232, USA.
+
+Phenome-wide association is a novel reverse genetic strategy to analyze
+genome-to-phenome relations in human clinical cohorts. Here we test this approach
+using a large murine population segregating for ∼5 million sequence variants, and
+we compare our results to those extracted from a matched analysis of gene
+variants in a large human cohort. For the mouse cohort, we amassed a deep and
+broad open-access phenome consisting of ∼4,500 metabolic, physiological,
+pharmacological and behavioural traits, and more than 90 independent expression
+quantitative trait locus (QTL), transcriptome, proteome, metagenome and
+metabolome data sets--by far the largest coherent phenome for any experimental
+cohort (www.genenetwork.org). We tested downstream effects of subsets of variants
+and discovered several novel associations, including a missense mutation in
+fumarate hydratase that controls variation in the mitochondrial unfolded protein 
+response in both mouse and Caenorhabditis elegans, and missense mutations in
+Col6a5 that underlies variation in bone mineral density in both mouse and human.
+
+DOI: 10.1038/ncomms10464 
+PMCID: PMC4740880
+PMID: 26833085  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------
+
+1. Nat Commun. 2016 Feb 2;7:10464. doi: 10.1038/ncomms10464.
+
+Joint mouse-human phenome-wide association to test gene function and disease
+risk.
+
+Wang X(1)(2), Pandey AK(1), Mulligan MK(1), Williams EG(3), Mozhui K(1), Li Z(1),
+Jovaisaite V(3), Quarles LD(4), Xiao Z(4), Huang J(1)(4), Capra JA(5), Chen Z(6),
+Taylor WL(7), Bastarache L(5), Niu X(5), Pollard KS(8)(9), Ciobanu DC(1)(10),
+Reznik AO(11), Tishkov AV(11), Zhulin IB(11), Peng J(2), Nelson SF(6), Denny
+JC(5)(12), Auwerx J(3), Lu L(1), Williams RW(1).
+
+Author information: 
+(1)Department of Genetics, Genomics and Informatics, University of Tennessee
+Health Science Center, Memphis, Tennessee 38163, USA.
+(2)St Jude Proteomics Facility, St Jude Children's Research Hospital, Memphis,
+Tennessee 38105, USA.
+(3)Laboratory of Integrative and Systems Physiology, School of Life Sciences,
+École Polytechnique Fédérale de Lausanne, Lausanne 1015, Switzerland.
+(4)Department of Medicine, University of Tennessee Health Science Center,
+Memphis, Tennessee 38163, USA.
+(5)Department of Biomedical Informatics, Vanderbilt University School of
+Medicine, Nashville, Tennessee 37232, USA.
+(6)Department of Human Genetics, University of California, Los Angeles,
+California 90095, USA.
+(7)Molecular Resource Center, University of Tennessee Health Science Center,
+Memphis, Tennessee 38163, USA.
+(8)Gladstone Institutes, San Francisco, California 94158, USA.
+(9)Division of Biostatistics and Institute for Human Genetics, University of
+California, San Francisco, California 94158, USA.
+(10)Animal Science Department, University of Nebraska, Lincoln, Nebraska 68583,
+USA.
+(11)Joint Institute for Computational Sciences, University of Tennessee-Oak Ridge
+National Laboratory, Oak Ridge, Tennessee 37831, USA.
+(12)Department of Medicine, Vanderbilt University School of Medicine, Nashville, 
+Tennessee 37232, USA.
+
+Phenome-wide association is a novel reverse genetic strategy to analyze
+genome-to-phenome relations in human clinical cohorts. Here we test this approach
+using a large murine population segregating for ∼5 million sequence variants, and
+we compare our results to those extracted from a matched analysis of gene
+variants in a large human cohort. For the mouse cohort, we amassed a deep and
+broad open-access phenome consisting of ∼4,500 metabolic, physiological,
+pharmacological and behavioural traits, and more than 90 independent expression
+quantitative trait locus (QTL), transcriptome, proteome, metagenome and
+metabolome data sets--by far the largest coherent phenome for any experimental
+cohort (www.genenetwork.org). We tested downstream effects of subsets of variants
+and discovered several novel associations, including a missense mutation in
+fumarate hydratase that controls variation in the mitochondrial unfolded protein 
+response in both mouse and Caenorhabditis elegans, and missense mutations in
+Col6a5 that underlies variation in bone mineral density in both mouse and human.
+
+DOI: 10.1038/ncomms10464 
+PMCID: PMC4740880
+PMID: 26833085  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------
+
+1. Nat Commun. 2016 Feb 2;7:10464. doi: 10.1038/ncomms10464.
+
+Joint mouse-human phenome-wide association to test gene function and disease
+risk.
+
+Wang X(1)(2), Pandey AK(1), Mulligan MK(1), Williams EG(3), Mozhui K(1), Li Z(1),
+Jovaisaite V(3), Quarles LD(4), Xiao Z(4), Huang J(1)(4), Capra JA(5), Chen Z(6),
+Taylor WL(7), Bastarache L(5), Niu X(5), Pollard KS(8)(9), Ciobanu DC(1)(10),
+Reznik AO(11), Tishkov AV(11), Zhulin IB(11), Peng J(2), Nelson SF(6), Denny
+JC(5)(12), Auwerx J(3), Lu L(1), Williams RW(1).
+
+Author information: 
+(1)Department of Genetics, Genomics and Informatics, University of Tennessee
+Health Science Center, Memphis, Tennessee 38163, USA.
+(2)St Jude Proteomics Facility, St Jude Children's Research Hospital, Memphis,
+Tennessee 38105, USA.
+(3)Laboratory of Integrative and Systems Physiology, School of Life Sciences,
+École Polytechnique Fédérale de Lausanne, Lausanne 1015, Switzerland.
+(4)Department of Medicine, University of Tennessee Health Science Center,
+Memphis, Tennessee 38163, USA.
+(5)Department of Biomedical Informatics, Vanderbilt University School of
+Medicine, Nashville, Tennessee 37232, USA.
+(6)Department of Human Genetics, University of California, Los Angeles,
+California 90095, USA.
+(7)Molecular Resource Center, University of Tennessee Health Science Center,
+Memphis, Tennessee 38163, USA.
+(8)Gladstone Institutes, San Francisco, California 94158, USA.
+(9)Division of Biostatistics and Institute for Human Genetics, University of
+California, San Francisco, California 94158, USA.
+(10)Animal Science Department, University of Nebraska, Lincoln, Nebraska 68583,
+USA.
+(11)Joint Institute for Computational Sciences, University of Tennessee-Oak Ridge
+National Laboratory, Oak Ridge, Tennessee 37831, USA.
+(12)Department of Medicine, Vanderbilt University School of Medicine, Nashville, 
+Tennessee 37232, USA.
+
+Phenome-wide association is a novel reverse genetic strategy to analyze
+genome-to-phenome relations in human clinical cohorts. Here we test this approach
+using a large murine population segregating for ∼5 million sequence variants, and
+we compare our results to those extracted from a matched analysis of gene
+variants in a large human cohort. For the mouse cohort, we amassed a deep and
+broad open-access phenome consisting of ∼4,500 metabolic, physiological,
+pharmacological and behavioural traits, and more than 90 independent expression
+quantitative trait locus (QTL), transcriptome, proteome, metagenome and
+metabolome data sets--by far the largest coherent phenome for any experimental
+cohort (www.genenetwork.org). We tested downstream effects of subsets of variants
+and discovered several novel associations, including a missense mutation in
+fumarate hydratase that controls variation in the mitochondrial unfolded protein 
+response in both mouse and Caenorhabditis elegans, and missense mutations in
+Col6a5 that underlies variation in bone mineral density in both mouse and human.
+
+DOI: 10.1038/ncomms10464 
+PMCID: PMC4740880
+PMID: 26833085  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------
+
+1. PLoS One. 2013 Nov 19;8(11):e80080. doi: 10.1371/journal.pone.0080080.
+eCollection 2013.
+
+Rule-based models of the interplay between genetic and environmental factors in
+childhood allergy.
+
+Bornelöv S(1), Sääf A, Melén E, Bergström A, Torabi Moghadam B, Pulkkinen V,
+Acevedo N, Orsmark Pietras C, Ege M, Braun-Fahrländer C, Riedler J, Doekes G,
+Kabesch M, van Hage M, Kere J, Scheynius A, Söderhäll C, Pershagen G, Komorowski 
+J.
+
+Author information: 
+(1)Science for Life Laboratory, Department of Cell and Molecular Biology, Uppsala
+University, Uppsala, Sweden.
+
+Both genetic and environmental factors are important for the development of
+allergic diseases. However, a detailed understanding of how such factors act
+together is lacking. To elucidate the interplay between genetic and environmental
+factors in allergic diseases, we used a novel bioinformatics approach that
+combines feature selection and machine learning. In two materials, PARSIFAL (a
+European cross-sectional study of 3113 children) and BAMSE (a Swedish
+birth-cohort including 2033 children), genetic variants as well as environmental 
+and lifestyle factors were evaluated for their contribution to allergic
+phenotypes. Monte Carlo feature selection and rule based models were used to
+identify and rank rules describing how combinations of genetic and environmental 
+factors affect the risk of allergic diseases. Novel interactions between genes
+were suggested and replicated, such as between ORMDL3 and RORA, where certain
+genotype combinations gave odds ratios for current asthma of 2.1 (95% CI 1.2-3.6)
+and 3.2 (95% CI 2.0-5.0) in the BAMSE and PARSIFAL children, respectively.
+Several combinations of environmental factors appeared to be important for the
+development of allergic disease in children. For example, use of baby formula and
+antibiotics early in life was associated with an odds ratio of 7.4 (95% CI
+4.5-12.0) of developing asthma. Furthermore, genetic variants together with
+environmental factors seemed to play a role for allergic diseases, such as the
+use of antibiotics early in life and COL29A1 variants for asthma, and farm living
+and NPSR1 variants for allergic eczema. Overall, combinations of environmental
+and life style factors appeared more frequently in the models than combinations
+solely involving genes. In conclusion, a new bioinformatics approach is described
+for analyzing complex data, including extensive genetic and environmental
+information. Interactions identified with this approach could provide useful
+hints for further in-depth studies of etiological mechanisms and may also
+strengthen the basis for risk assessment and prevention.
+
+DOI: 10.1371/journal.pone.0080080 
+PMCID: PMC3833974
+PMID: 24260339  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------
+
+1. Nat Commun. 2016 Feb 2;7:10464. doi: 10.1038/ncomms10464.
+
+Joint mouse-human phenome-wide association to test gene function and disease
+risk.
+
+Wang X(1)(2), Pandey AK(1), Mulligan MK(1), Williams EG(3), Mozhui K(1), Li Z(1),
+Jovaisaite V(3), Quarles LD(4), Xiao Z(4), Huang J(1)(4), Capra JA(5), Chen Z(6),
+Taylor WL(7), Bastarache L(5), Niu X(5), Pollard KS(8)(9), Ciobanu DC(1)(10),
+Reznik AO(11), Tishkov AV(11), Zhulin IB(11), Peng J(2), Nelson SF(6), Denny
+JC(5)(12), Auwerx J(3), Lu L(1), Williams RW(1).
+
+Author information: 
+(1)Department of Genetics, Genomics and Informatics, University of Tennessee
+Health Science Center, Memphis, Tennessee 38163, USA.
+(2)St Jude Proteomics Facility, St Jude Children's Research Hospital, Memphis,
+Tennessee 38105, USA.
+(3)Laboratory of Integrative and Systems Physiology, School of Life Sciences,
+École Polytechnique Fédérale de Lausanne, Lausanne 1015, Switzerland.
+(4)Department of Medicine, University of Tennessee Health Science Center,
+Memphis, Tennessee 38163, USA.
+(5)Department of Biomedical Informatics, Vanderbilt University School of
+Medicine, Nashville, Tennessee 37232, USA.
+(6)Department of Human Genetics, University of California, Los Angeles,
+California 90095, USA.
+(7)Molecular Resource Center, University of Tennessee Health Science Center,
+Memphis, Tennessee 38163, USA.
+(8)Gladstone Institutes, San Francisco, California 94158, USA.
+(9)Division of Biostatistics and Institute for Human Genetics, University of
+California, San Francisco, California 94158, USA.
+(10)Animal Science Department, University of Nebraska, Lincoln, Nebraska 68583,
+USA.
+(11)Joint Institute for Computational Sciences, University of Tennessee-Oak Ridge
+National Laboratory, Oak Ridge, Tennessee 37831, USA.
+(12)Department of Medicine, Vanderbilt University School of Medicine, Nashville, 
+Tennessee 37232, USA.
+
+Phenome-wide association is a novel reverse genetic strategy to analyze
+genome-to-phenome relations in human clinical cohorts. Here we test this approach
+using a large murine population segregating for ∼5 million sequence variants, and
+we compare our results to those extracted from a matched analysis of gene
+variants in a large human cohort. For the mouse cohort, we amassed a deep and
+broad open-access phenome consisting of ∼4,500 metabolic, physiological,
+pharmacological and behavioural traits, and more than 90 independent expression
+quantitative trait locus (QTL), transcriptome, proteome, metagenome and
+metabolome data sets--by far the largest coherent phenome for any experimental
+cohort (www.genenetwork.org). We tested downstream effects of subsets of variants
+and discovered several novel associations, including a missense mutation in
+fumarate hydratase that controls variation in the mitochondrial unfolded protein 
+response in both mouse and Caenorhabditis elegans, and missense mutations in
+Col6a5 that underlies variation in bone mineral density in both mouse and human.
+
+DOI: 10.1038/ncomms10464 
+PMCID: PMC4740880
+PMID: 26833085  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------
+
+1. Nat Commun. 2016 Feb 2;7:10464. doi: 10.1038/ncomms10464.
+
+Joint mouse-human phenome-wide association to test gene function and disease
+risk.
+
+Wang X(1)(2), Pandey AK(1), Mulligan MK(1), Williams EG(3), Mozhui K(1), Li Z(1),
+Jovaisaite V(3), Quarles LD(4), Xiao Z(4), Huang J(1)(4), Capra JA(5), Chen Z(6),
+Taylor WL(7), Bastarache L(5), Niu X(5), Pollard KS(8)(9), Ciobanu DC(1)(10),
+Reznik AO(11), Tishkov AV(11), Zhulin IB(11), Peng J(2), Nelson SF(6), Denny
+JC(5)(12), Auwerx J(3), Lu L(1), Williams RW(1).
+
+Author information: 
+(1)Department of Genetics, Genomics and Informatics, University of Tennessee
+Health Science Center, Memphis, Tennessee 38163, USA.
+(2)St Jude Proteomics Facility, St Jude Children's Research Hospital, Memphis,
+Tennessee 38105, USA.
+(3)Laboratory of Integrative and Systems Physiology, School of Life Sciences,
+École Polytechnique Fédérale de Lausanne, Lausanne 1015, Switzerland.
+(4)Department of Medicine, University of Tennessee Health Science Center,
+Memphis, Tennessee 38163, USA.
+(5)Department of Biomedical Informatics, Vanderbilt University School of
+Medicine, Nashville, Tennessee 37232, USA.
+(6)Department of Human Genetics, University of California, Los Angeles,
+California 90095, USA.
+(7)Molecular Resource Center, University of Tennessee Health Science Center,
+Memphis, Tennessee 38163, USA.
+(8)Gladstone Institutes, San Francisco, California 94158, USA.
+(9)Division of Biostatistics and Institute for Human Genetics, University of
+California, San Francisco, California 94158, USA.
+(10)Animal Science Department, University of Nebraska, Lincoln, Nebraska 68583,
+USA.
+(11)Joint Institute for Computational Sciences, University of Tennessee-Oak Ridge
+National Laboratory, Oak Ridge, Tennessee 37831, USA.
+(12)Department of Medicine, Vanderbilt University School of Medicine, Nashville, 
+Tennessee 37232, USA.
+
+Phenome-wide association is a novel reverse genetic strategy to analyze
+genome-to-phenome relations in human clinical cohorts. Here we test this approach
+using a large murine population segregating for ∼5 million sequence variants, and
+we compare our results to those extracted from a matched analysis of gene
+variants in a large human cohort. For the mouse cohort, we amassed a deep and
+broad open-access phenome consisting of ∼4,500 metabolic, physiological,
+pharmacological and behavioural traits, and more than 90 independent expression
+quantitative trait locus (QTL), transcriptome, proteome, metagenome and
+metabolome data sets--by far the largest coherent phenome for any experimental
+cohort (www.genenetwork.org). We tested downstream effects of subsets of variants
+and discovered several novel associations, including a missense mutation in
+fumarate hydratase that controls variation in the mitochondrial unfolded protein 
+response in both mouse and Caenorhabditis elegans, and missense mutations in
+Col6a5 that underlies variation in bone mineral density in both mouse and human.
+
+DOI: 10.1038/ncomms10464 
+PMCID: PMC4740880
+PMID: 26833085  [Indexed for MEDLINE]
+
+----------------------------------------------------------------------------
