@@ -16,7 +16,7 @@ data_clean = tmp[tmp$hgnc_symbol != "",] # dropping variants with no gene symbol
 lengths = getGeneLengthAndGCContent(data_clean$Gene.ensGene, org = "hsa")
 lengths = lengths[,"length"]
 
-data_clean = cbind(data_clean, lengths)
+data_clean = unique(cbind(data_clean, lengths)) # get rid of some duplicated rows
 colnames(data_clean)[21] = "gene_length"
 
 # save a new copy of the variant data with gene symbols and lengths included

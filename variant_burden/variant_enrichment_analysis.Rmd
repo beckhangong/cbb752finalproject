@@ -11,8 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Read in annotated SNP data.
 This analysis will be run with two sets of SNP data. The first excludes intergenic and intronic SNPs, but keeps splice-site, but keeps UTR SNPs and SNPS within a neighborhood upstream/downstream of the exons, while the second set only includes SNPs annotated as exon/splice-site.
 ```{r, tidy = T}
-  #data = read.table("chr3_annotated_all.txt", sep = "\t", header=T, na.strings = ".", stringsAsFactors = F, quote='')
-  data = read.table("chr3_annotated_exon-splice.txt", sep = "\t", header=T, na.strings = ".", stringsAsFactors = F)
+  data = read.table("chr3_annotated_all.txt", sep = "\t", header=T, na.strings = ".", stringsAsFactors = F, quote='')
+  #data = read.table("chr3_annotated_exon-splice.txt", sep = "\t", header=T, na.strings = ".", stringsAsFactors = F, quote = '')
 ```
 
 
