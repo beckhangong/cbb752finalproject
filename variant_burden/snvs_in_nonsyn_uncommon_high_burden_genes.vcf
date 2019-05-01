@@ -1,0 +1,158 @@
+##fileformat=VCFv4.1
+##FILTER=<ID=PASS,Description="All filters passed">
+##FILTER=<ID=LowQual,Description="Low quality">
+##FILTER=<ID=VQSRTrancheINDEL99.00to99.90,Description="Truth sensitivity tranche level for INDEL model at VQS Lod: -3.3512 <= x < 0.1928">
+##FILTER=<ID=VQSRTrancheINDEL99.90to100.00+,Description="Truth sensitivity tranche level for INDEL model at VQS Lod < -870.4591">
+##FILTER=<ID=VQSRTrancheINDEL99.90to100.00,Description="Truth sensitivity tranche level for INDEL model at VQS Lod: -870.4591 <= x < -3.3512">
+##FILTER=<ID=VQSRTrancheSNP99.00to99.90,Description="Truth sensitivity tranche level for SNP model at VQS Lod: -0.6666 <= x < 1.0923">
+##FILTER=<ID=VQSRTrancheSNP99.90to100.00+,Description="Truth sensitivity tranche level for SNP model at VQS Lod < -5429.5747">
+##FILTER=<ID=VQSRTrancheSNP99.90to100.00,Description="Truth sensitivity tranche level for SNP model at VQS Lod: -5429.5747 <= x < -0.6666">
+##FORMAT=<ID=AD,Number=.,Type=Integer,Description="Allelic depths for the ref and alt alleles in the order listed">
+##FORMAT=<ID=DP,Number=1,Type=Integer,Description="Approximate read depth (reads with MQ=255 or with bad mates are filtered)">
+##FORMAT=<ID=GQ,Number=1,Type=Integer,Description="Genotype Quality">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##FORMAT=<ID=PL,Number=G,Type=Integer,Description="Normalized, Phred-scaled likelihoods for genotypes as defined in the VCF specification">
+##GATKCommandLine=<ID=ApplyRecalibration,Version=2.8-1-g932cd3a,Date="Thu Feb 04 09:47:09 EST 2016",Epoch=1454597229619,CommandLineOptions="analysis_type=ApplyRecalibration input_file=[] read_buffer_size=null phone_home=AWS gatk_key=null tag=NA read_filter=[] intervals=null excludeIntervals=null interval_set_rule=UNION interval_merging=ALL interval_padding=0 reference_sequence=hs37d5.fa nonDeterministicRandomSeed=false disableDithering=false maxRuntime=-1 maxRuntimeUnits=MINUTES downsampling_type=BY_SAMPLE downsample_to_fraction=null downsample_to_coverage=1000 baq=OFF baqGapOpenPenalty=40.0 fix_misencoded_quality_scores=false allow_potentially_misencoded_quality_scores=false useOriginalQualities=false defaultBaseQualities=-1 performanceLog=null BQSR=null quantize_quals=0 disable_indel_quals=false emit_original_quals=false preserve_qscores_less_than=6 globalQScorePrior=-1.0 allow_bqsr_on_reduced_bams_despite_repeated_warnings=false validation_strictness=SILENT remove_program_records=false keep_program_records=false sample_rename_mapping_file=null unsafe=null disable_auto_index_creation_and_locking_when_reading_rods=false num_threads=1 num_cpu_threads_per_data_thread=1 num_io_threads=0 monitorThreadEfficiency=false num_bam_file_handles=null read_group_black_list=null pedigree=[] pedigreeString=[] pedigreeValidationType=STRICT allow_intervals_with_unindexed_bam=false generateShadowBCF=false variant_index_type=DYNAMIC_SEEK variant_index_parameter=-1 logging_level=INFO log_to_file=null help=false version=false input=[(RodBinding name=input source=PG0004515-BLD_hs37d5_raw_variants.vcf)] recal_file=(RodBinding name=recal_file source=recalibrate_SNP.recal) tranches_file=recalibrate_SNP.tranches out=org.broadinstitute.sting.gatk.io.stubs.VariantContextWriterStub no_cmdline_in_header=org.broadinstitute.sting.gatk.io.stubs.VariantContextWriterStub sites_only=org.broadinstitute.sting.gatk.io.stubs.VariantContextWriterStub bcf=org.broadinstitute.sting.gatk.io.stubs.VariantContextWriterStub ts_filter_level=99.0 lodCutoff=null ignore_filter=null excludeFiltered=false mode=SNP filter_reads_with_N_cigar=false filter_mismatching_base_and_quals=false filter_bases_not_stored=false">
+##GATKCommandLine=<ID=ApplyRecalibration,Version=2.8-1-g932cd3a,Date="Thu Feb 04 09:51:09 EST 2016",Epoch=1454597469240,CommandLineOptions="analysis_type=ApplyRecalibration input_file=[] read_buffer_size=null phone_home=AWS gatk_key=null tag=NA read_filter=[] intervals=null excludeIntervals=null interval_set_rule=UNION interval_merging=ALL interval_padding=0 reference_sequence=hs37d5.fa nonDeterministicRandomSeed=false disableDithering=false maxRuntime=-1 maxRuntimeUnits=MINUTES downsampling_type=BY_SAMPLE downsample_to_fraction=null downsample_to_coverage=1000 baq=OFF baqGapOpenPenalty=40.0 fix_misencoded_quality_scores=false allow_potentially_misencoded_quality_scores=false useOriginalQualities=false defaultBaseQualities=-1 performanceLog=null BQSR=null quantize_quals=0 disable_indel_quals=false emit_original_quals=false preserve_qscores_less_than=6 globalQScorePrior=-1.0 allow_bqsr_on_reduced_bams_despite_repeated_warnings=false validation_strictness=SILENT remove_program_records=false keep_program_records=false sample_rename_mapping_file=null unsafe=null disable_auto_index_creation_and_locking_when_reading_rods=false num_threads=1 num_cpu_threads_per_data_thread=1 num_io_threads=0 monitorThreadEfficiency=false num_bam_file_handles=null read_group_black_list=null pedigree=[] pedigreeString=[] pedigreeValidationType=STRICT allow_intervals_with_unindexed_bam=false generateShadowBCF=false variant_index_type=DYNAMIC_SEEK variant_index_parameter=-1 logging_level=INFO log_to_file=null help=false version=false input=[(RodBinding name=input source=recalibrated_SNPS_raw_indels_PG0004515-BLD_hs37d5.vcf)] recal_file=(RodBinding name=recal_file source=recalibrate_INDEL.recal) tranches_file=recalibrate_INDEL.tranches out=org.broadinstitute.sting.gatk.io.stubs.VariantContextWriterStub no_cmdline_in_header=org.broadinstitute.sting.gatk.io.stubs.VariantContextWriterStub sites_only=org.broadinstitute.sting.gatk.io.stubs.VariantContextWriterStub bcf=org.broadinstitute.sting.gatk.io.stubs.VariantContextWriterStub ts_filter_level=99.0 lodCutoff=null ignore_filter=null excludeFiltered=false mode=INDEL filter_reads_with_N_cigar=false filter_mismatching_base_and_quals=false filter_bases_not_stored=false">
+##GATKCommandLine=<ID=HaplotypeCaller,Version=2.8-1-g932cd3a,Date="Tue Feb 02 21:10:04 EST 2016",Epoch=1454465404941,CommandLineOptions="analysis_type=HaplotypeCaller input_file=[PG0004515-BLD.hs37d5.recalibrated.bam] read_buffer_size=null phone_home=AWS gatk_key=null tag=NA read_filter=[] intervals=null excludeIntervals=null interval_set_rule=UNION interval_merging=ALL interval_padding=0 reference_sequence=hs37d5.fa nonDeterministicRandomSeed=false disableDithering=false maxRuntime=-1 maxRuntimeUnits=MINUTES downsampling_type=BY_SAMPLE downsample_to_fraction=null downsample_to_coverage=250 baq=OFF baqGapOpenPenalty=40.0 fix_misencoded_quality_scores=false allow_potentially_misencoded_quality_scores=false useOriginalQualities=false defaultBaseQualities=-1 performanceLog=null BQSR=null quantize_quals=0 disable_indel_quals=false emit_original_quals=false preserve_qscores_less_than=6 globalQScorePrior=-1.0 allow_bqsr_on_reduced_bams_despite_repeated_warnings=false validation_strictness=SILENT remove_program_records=false keep_program_records=false sample_rename_mapping_file=null unsafe=null disable_auto_index_creation_and_locking_when_reading_rods=false num_threads=1 num_cpu_threads_per_data_thread=8 num_io_threads=0 monitorThreadEfficiency=false num_bam_file_handles=null read_group_black_list=null pedigree=[] pedigreeString=[] pedigreeValidationType=STRICT allow_intervals_with_unindexed_bam=false generateShadowBCF=false variant_index_type=DYNAMIC_SEEK variant_index_parameter=-1 logging_level=INFO log_to_file=null help=false version=false out=org.broadinstitute.sting.gatk.io.stubs.VariantContextWriterStub no_cmdline_in_header=org.broadinstitute.sting.gatk.io.stubs.VariantContextWriterStub sites_only=org.broadinstitute.sting.gatk.io.stubs.VariantContextWriterStub bcf=org.broadinstitute.sting.gatk.io.stubs.VariantContextWriterStub likelihoodCalculationEngine=PairHMM heterogeneousKmerSizeResolution=COMBO_MIN graphOutput=null bamOutput=null bam_compression=null disable_bam_indexing=null generate_md5=null simplifyBAM=null bamWriterType=CALLED_HAPLOTYPES dbsnp=(RodBinding name= source=UNBOUND) comp=[] annotation=[ClippingRankSumTest, DepthPerSampleHC] excludeAnnotation=[SpanningDeletions, TandemRepeatAnnotator] heterozygosity=0.001 indel_heterozygosity=1.25E-4 genotyping_mode=DISCOVERY standard_min_confidence_threshold_for_calling=30.0 standard_min_confidence_threshold_for_emitting=10.0 alleles=(RodBinding name= source=UNBOUND) max_alternate_alleles=6 input_prior=[] contamination_fraction_to_filter=0.0 contamination_fraction_per_sample_file=null p_nonref_model=EXACT_INDEPENDENT exactcallslog=null kmerSize=[10, 25] dontIncreaseKmerSizesForCycles=false numPruningSamples=1 dontRecoverDanglingTails=false emitRefConfidence=NONE GVCFGQBands=[5, 20, 60] indelSizeToEliminateInRefModel=10 minPruning=2 gcpHMM=10 includeUmappedReads=false useAllelesTrigger=false useFilteredReadsForAnnotations=false phredScaledGlobalReadMismappingRate=45 maxNumHaplotypesInPopulation=128 mergeVariantsViaLD=false pair_hmm_implementation=LOGLESS_CACHING keepRG=null justDetermineActiveRegions=false dontGenotype=false errorCorrectKmers=false debug=false debugGraphTransformations=false useLowQualityBasesForAssembly=false dontTrimActiveRegions=false dontUseSoftClippedBases=false captureAssemblyFailureBAM=false allowCyclesInKmerGraphToGeneratePaths=false noFpga=false errorCorrectReads=false kmerLengthForReadErrorCorrection=25 minObservationsForKmerToBeSolid=20 maxDiscARExtension=25 maxGGAARExtension=300 paddingAroundIndels=150 paddingAroundSNPs=20 pcr_indel_model=CONSERVATIVE activityProfileOut=null activeRegionOut=null activeRegionIn=null activeRegionExtension=null forceActive=false activeRegionMaxSize=null bandPassSigma=null min_mapping_quality_score=20 filter_reads_with_N_cigar=false filter_mismatching_base_and_quals=false filter_bases_not_stored=false">
+##INFO=<ID=AC,Number=A,Type=Integer,Description="Allele count in genotypes, for each ALT allele, in the same order as listed">
+##INFO=<ID=AF,Number=A,Type=Float,Description="Allele Frequency, for each ALT allele, in the same order as listed">
+##INFO=<ID=AN,Number=1,Type=Integer,Description="Total number of alleles in called genotypes">
+##INFO=<ID=BaseQRankSum,Number=1,Type=Float,Description="Z-score from Wilcoxon rank sum test of Alt Vs. Ref base qualities">
+##INFO=<ID=ClippingRankSum,Number=1,Type=Float,Description="Z-score From Wilcoxon rank sum test of Alt vs. Ref number of hard clipped bases">
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Approximate read depth; some reads may have been filtered">
+##INFO=<ID=DS,Number=0,Type=Flag,Description="Were any of the samples downsampled?">
+##INFO=<ID=END,Number=1,Type=Integer,Description="Stop position of the interval">
+##INFO=<ID=FS,Number=1,Type=Float,Description="Phred-scaled p-value using Fisher's exact test to detect strand bias">
+##INFO=<ID=HaplotypeScore,Number=1,Type=Float,Description="Consistency of the site with at most two segregating haplotypes">
+##INFO=<ID=InbreedingCoeff,Number=1,Type=Float,Description="Inbreeding coefficient as estimated from the genotype likelihoods per-sample when compared against the Hardy-Weinberg expectation">
+##INFO=<ID=MLEAC,Number=A,Type=Integer,Description="Maximum likelihood expectation (MLE) for the allele counts (not necessarily the same as the AC), for each ALT allele, in the same order as listed">
+##INFO=<ID=MLEAF,Number=A,Type=Float,Description="Maximum likelihood expectation (MLE) for the allele frequency (not necessarily the same as the AF), for each ALT allele, in the same order as listed">
+##INFO=<ID=MQ,Number=1,Type=Float,Description="RMS Mapping Quality">
+##INFO=<ID=MQ0,Number=1,Type=Integer,Description="Total Mapping Quality Zero Reads">
+##INFO=<ID=MQRankSum,Number=1,Type=Float,Description="Z-score From Wilcoxon rank sum test of Alt vs. Ref read mapping qualities">
+##INFO=<ID=NEGATIVE_TRAIN_SITE,Number=0,Type=Flag,Description="This variant was used to build the negative training set of bad variants">
+##INFO=<ID=POSITIVE_TRAIN_SITE,Number=0,Type=Flag,Description="This variant was used to build the positive training set of good variants">
+##INFO=<ID=QD,Number=1,Type=Float,Description="Variant Confidence/Quality by Depth">
+##INFO=<ID=ReadPosRankSum,Number=1,Type=Float,Description="Z-score from Wilcoxon rank sum test of Alt vs. Ref read position bias">
+##INFO=<ID=VQSLOD,Number=1,Type=Float,Description="Log odds ratio of being a true variant versus being false under the trained gaussian mixture model">
+##INFO=<ID=culprit,Number=1,Type=String,Description="The annotation which was the worst performing in the Gaussian mixture model, likely the reason why the variant was filtered out">
+##contig=<ID=1,length=249250621>
+##contig=<ID=2,length=243199373>
+##contig=<ID=3,length=198022430>
+##contig=<ID=4,length=191154276>
+##contig=<ID=5,length=180915260>
+##contig=<ID=6,length=171115067>
+##contig=<ID=7,length=159138663>
+##contig=<ID=8,length=146364022>
+##contig=<ID=9,length=141213431>
+##contig=<ID=10,length=135534747>
+##contig=<ID=11,length=135006516>
+##contig=<ID=12,length=133851895>
+##contig=<ID=13,length=115169878>
+##contig=<ID=14,length=107349540>
+##contig=<ID=15,length=102531392>
+##contig=<ID=16,length=90354753>
+##contig=<ID=17,length=81195210>
+##contig=<ID=18,length=78077248>
+##contig=<ID=19,length=59128983>
+##contig=<ID=20,length=63025520>
+##contig=<ID=21,length=48129895>
+##contig=<ID=22,length=51304566>
+##contig=<ID=X,length=155270560>
+##contig=<ID=Y,length=59373566>
+##contig=<ID=MT,length=16569>
+##contig=<ID=GL000207.1,length=4262>
+##contig=<ID=GL000226.1,length=15008>
+##contig=<ID=GL000229.1,length=19913>
+##contig=<ID=GL000231.1,length=27386>
+##contig=<ID=GL000210.1,length=27682>
+##contig=<ID=GL000239.1,length=33824>
+##contig=<ID=GL000235.1,length=34474>
+##contig=<ID=GL000201.1,length=36148>
+##contig=<ID=GL000247.1,length=36422>
+##contig=<ID=GL000245.1,length=36651>
+##contig=<ID=GL000197.1,length=37175>
+##contig=<ID=GL000203.1,length=37498>
+##contig=<ID=GL000246.1,length=38154>
+##contig=<ID=GL000249.1,length=38502>
+##contig=<ID=GL000196.1,length=38914>
+##contig=<ID=GL000248.1,length=39786>
+##contig=<ID=GL000244.1,length=39929>
+##contig=<ID=GL000238.1,length=39939>
+##contig=<ID=GL000202.1,length=40103>
+##contig=<ID=GL000234.1,length=40531>
+##contig=<ID=GL000232.1,length=40652>
+##contig=<ID=GL000206.1,length=41001>
+##contig=<ID=GL000240.1,length=41933>
+##contig=<ID=GL000236.1,length=41934>
+##contig=<ID=GL000241.1,length=42152>
+##contig=<ID=GL000243.1,length=43341>
+##contig=<ID=GL000242.1,length=43523>
+##contig=<ID=GL000230.1,length=43691>
+##contig=<ID=GL000237.1,length=45867>
+##contig=<ID=GL000233.1,length=45941>
+##contig=<ID=GL000204.1,length=81310>
+##contig=<ID=GL000198.1,length=90085>
+##contig=<ID=GL000208.1,length=92689>
+##contig=<ID=GL000191.1,length=106433>
+##contig=<ID=GL000227.1,length=128374>
+##contig=<ID=GL000228.1,length=129120>
+##contig=<ID=GL000214.1,length=137718>
+##contig=<ID=GL000221.1,length=155397>
+##contig=<ID=GL000209.1,length=159169>
+##contig=<ID=GL000218.1,length=161147>
+##contig=<ID=GL000220.1,length=161802>
+##contig=<ID=GL000213.1,length=164239>
+##contig=<ID=GL000211.1,length=166566>
+##contig=<ID=GL000199.1,length=169874>
+##contig=<ID=GL000217.1,length=172149>
+##contig=<ID=GL000216.1,length=172294>
+##contig=<ID=GL000215.1,length=172545>
+##contig=<ID=GL000205.1,length=174588>
+##contig=<ID=GL000219.1,length=179198>
+##contig=<ID=GL000224.1,length=179693>
+##contig=<ID=GL000223.1,length=180455>
+##contig=<ID=GL000195.1,length=182896>
+##contig=<ID=GL000212.1,length=186858>
+##contig=<ID=GL000222.1,length=186861>
+##contig=<ID=GL000200.1,length=187035>
+##contig=<ID=GL000193.1,length=189789>
+##contig=<ID=GL000194.1,length=191469>
+##contig=<ID=GL000225.1,length=211173>
+##contig=<ID=GL000192.1,length=547496>
+##contig=<ID=NC_007605,length=171823>
+##contig=<ID=hs37d5,length=35477943>
+##reference=file:///gpfs/scratch/fas/gerstein/common/personalGenome/zimmerome/newAlign/hs37d5.fa
+##bcftools_viewVersion=1.9+htslib-1.9
+##bcftools_viewCommand=view --regions 3 -o chr3.vcf.gz -l 1 Z.variantCall.SNPs.vcf.gz; Date=Wed Apr 10 12:34:10 2019
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	sample1
+3	33055721	.	A	G	1384.77	PASS	AC=2;AF=1;AN=2;DP=49;FS=0;MLEAC=2;MLEAF=1;MQ=60;MQ0=0;POSITIVE_TRAIN_SITE;QD=28.26;VQSLOD=5.77;culprit=QD	GT:AD:DP:GQ:PL	1/1:0,49:49:99:1413,146,0
+3	33110383	.	G	A	501.77	PASS	AC=1;AF=0.5;AN=2;BaseQRankSum=1.573;ClippingRankSum=0.652;DP=32;FS=5.387;MLEAC=1;MLEAF=0.5;MQ=60;MQ0=0;MQRankSum=0.767;POSITIVE_TRAIN_SITE;QD=15.68;ReadPosRankSum=-1.074;VQSLOD=2.62;culprit=QD	GT:AD:DP:GQ:PL	0/1:13,19:32:99:530,0,325
+3	33138544	.	A	G	923.77	PASS	AC=1;AF=0.5;AN=2;BaseQRankSum=-1.01;ClippingRankSum=-0.193;DP=46;FS=2.597;MLEAC=1;MLEAF=0.5;MQ=60;MQ0=0;MQRankSum=-1.487;POSITIVE_TRAIN_SITE;QD=20.08;ReadPosRankSum=0.148;VQSLOD=1.66;culprit=QD	GT:AD:DP:GQ:PL	0/1:22,23:45:99:952,0,1336
+3	33138549	.	G	A	923.77	PASS	AC=1;AF=0.5;AN=2;BaseQRankSum=2.127;ClippingRankSum=-0.626;DP=46;FS=2.58;MLEAC=1;MLEAF=0.5;MQ=60;MQ0=0;MQRankSum=0.83;POSITIVE_TRAIN_SITE;QD=20.08;ReadPosRankSum=1.263;VQSLOD=2.59;culprit=QD	GT:AD:DP:GQ:PL	0/1:21,24:45:99:952,0,1336
+3	38167095	.	A	G	578.77	PASS	AC=1;AF=0.5;AN=2;BaseQRankSum=0.747;ClippingRankSum=-1.817;DP=40;FS=6.884;MLEAC=1;MLEAF=0.5;MQ=60;MQ0=0;MQRankSum=0.014;POSITIVE_TRAIN_SITE;QD=14.47;ReadPosRankSum=2.155;VQSLOD=2.98;culprit=FS	GT:AD:DP:GQ:PL	0/1:18,21:39:99:607,0,442
+3	65342781	.	C	T	328.77	PASS	AC=1;AF=0.5;AN=2;BaseQRankSum=-0.142;ClippingRankSum=-2.18;DP=25;FS=6.884;MLEAC=1;MLEAF=0.5;MQ=60;MQ0=0;MQRankSum=0.198;QD=13.15;ReadPosRankSum=0.311;VQSLOD=1.39;culprit=FS	GT:AD:DP:GQ:PL	0/1:9,16:25:99:357,0,194
+3	99885236	.	A	G	994.77	PASS	AC=1;AF=0.5;AN=2;BaseQRankSum=-2.353;ClippingRankSum=-0.995;DP=62;FS=0;MLEAC=1;MLEAF=0.5;MQ=60;MQ0=0;MQRankSum=0.131;POSITIVE_TRAIN_SITE;QD=16.04;ReadPosRankSum=1.582;VQSLOD=5.67;culprit=FS	GT:AD:DP:GQ:PL	0/1:24,35:59:99:1023,0,667
+3	125826003	.	T	C	1125.77	PASS	AC=2;AF=1;AN=2;DP=41;FS=0;MLEAC=2;MLEAF=1;MQ=60;MQ0=0;POSITIVE_TRAIN_SITE;QD=27.46;VQSLOD=5.48;culprit=QD	GT:AD:DP:GQ:PL	1/1:0,41:41:99:1154,122,0
+3	125854409	.	T	C	1057.77	PASS	AC=2;AF=1;AN=2;DP=41;FS=0;MLEAC=2;MLEAF=1;MQ=60;MQ0=0;POSITIVE_TRAIN_SITE;QD=25.8;VQSLOD=4.81;culprit=QD	GT:AD:DP:GQ:PL	1/1:0,41:41:99:1086,120,0
+3	125856695	.	C	A	1455.77	PASS	AC=2;AF=1;AN=2;DP=46;FS=0;MLEAC=2;MLEAF=1;MQ=60;MQ0=0;POSITIVE_TRAIN_SITE;QD=31.65;VQSLOD=6.53;culprit=FS	GT:AD:DP:GQ:PL	1/1:0,46:46:99:1484,136,0
+3	125865766	.	C	A	1026.77	PASS	AC=2;AF=1;AN=2;DP=32;FS=0;MLEAC=2;MLEAF=1;MQ=60;MQ0=0;POSITIVE_TRAIN_SITE;QD=32.09;VQSLOD=5.65;culprit=FS	GT:AD:DP:GQ:PL	1/1:0,31:31:93:1055,93,0
+3	125879703	.	G	T	395.77	PASS	AC=1;AF=0.5;AN=2;BaseQRankSum=1.612;ClippingRankSum=0.046;DP=29;FS=0;MLEAC=1;MLEAF=0.5;MQ=60;MQ0=0;MQRankSum=1.52;QD=13.65;ReadPosRankSum=-0.829;VQSLOD=3.85;culprit=FS	GT:AD:DP:GQ:PL	0/1:13,15:28:99:424,0,296
+3	129197005	.	A	G	426.77	PASS	AC=1;AF=0.5;AN=2;BaseQRankSum=-4.341;ClippingRankSum=-2.206;DP=40;FS=3.462;MLEAC=1;MLEAF=0.5;MQ=60;MQ0=0;MQRankSum=0.183;QD=10.67;ReadPosRankSum=2.318;VQSLOD=1.86;culprit=QD	GT:AD:DP:GQ:PL	0/1:19,20:39:99:455,0,552
+3	149459341	.	A	G	1297.77	PASS	AC=2;AF=1;AN=2;DP=41;FS=0;MLEAC=2;MLEAF=1;MQ=60;MQ0=0;POSITIVE_TRAIN_SITE;QD=31.65;VQSLOD=6.5;culprit=FS	GT:AD:DP:GQ:PL	1/1:0,40:40:99:1326,120,0
+3	149468530	.	T	G	1093.77	PASS	AC=2;AF=1;AN=2;DP=32;FS=0;MLEAC=2;MLEAF=1;MQ=60;MQ0=0;POSITIVE_TRAIN_SITE;QD=34.18;VQSLOD=6.1;culprit=QD	GT:AD:DP:GQ:PL	1/1:0,32:32:96:1122,96,0
+3	149469168	.	A	C	502.77	PASS	AC=1;AF=0.5;AN=2;BaseQRankSum=-4.179;ClippingRankSum=-0.311;DP=40;FS=4.364;MLEAC=1;MLEAF=0.5;MQ=60;MQ0=0;MQRankSum=0.582;QD=12.57;ReadPosRankSum=0.879;VQSLOD=1.88;culprit=MQRankSum	GT:AD:DP:GQ:PL	0/1:20,20:40:99:531,0,584
+3	151143447	.	G	T	1572.77	PASS	AC=2;AF=1;AN=2;DP=50;FS=0;MLEAC=2;MLEAF=1;MQ=60;MQ0=0;POSITIVE_TRAIN_SITE;QD=31.46;VQSLOD=6.22;culprit=FS	GT:AD:DP:GQ:PL	1/1:0,48:48:99:1601,143,0
+3	151154666	.	T	C	973.77	PASS	AC=2;AF=1;AN=2;DP=36;FS=0;MLEAC=2;MLEAF=1;MQ=60;MQ0=0;POSITIVE_TRAIN_SITE;QD=27.05;VQSLOD=4.71;culprit=QD	GT:AD:DP:GQ:PL	1/1:0,34:34:99:1002,102,0
+3	151155620	.	G	A	1289.77	PASS	AC=2;AF=1;AN=2;DP=40;FS=0;MLEAC=2;MLEAF=1;MQ=60;MQ0=0;POSITIVE_TRAIN_SITE;QD=32.24;VQSLOD=6.49;culprit=FS	GT:AD:DP:GQ:PL	1/1:0,38:38:99:1318,114,0
+3	151163838	.	T	C	409.77	PASS	AC=1;AF=0.5;AN=2;BaseQRankSum=-4.354;ClippingRankSum=-0.182;DP=50;FS=1.133;MLEAC=1;MLEAF=0.5;MQ=60;MQ0=0;MQRankSum=0.439;POSITIVE_TRAIN_SITE;QD=8.2;ReadPosRankSum=0.46;VQSLOD=3.7;culprit=QD	GT:AD:DP:GQ:PL	0/1:26,21:47:99:438,0,745
+3	151165678	.	T	C	700.77	PASS	AC=1;AF=0.5;AN=2;BaseQRankSum=-0.151;ClippingRankSum=-2.466;DP=37;FS=0;MLEAC=1;MLEAF=0.5;MQ=60;MQ0=0;MQRankSum=-0.218;POSITIVE_TRAIN_SITE;QD=18.94;ReadPosRankSum=2.601;VQSLOD=4.97;culprit=QD	GT:AD:DP:GQ:PL	0/1:12,24:36:99:729,0,311
+3	151166422	.	C	T	744.77	PASS	AC=1;AF=0.5;AN=2;BaseQRankSum=2.572;ClippingRankSum=-1.465;DP=60;FS=0.999;MLEAC=1;MLEAF=0.5;MQ=60;MQ0=0;MQRankSum=0.171;POSITIVE_TRAIN_SITE;QD=12.41;ReadPosRankSum=0.717;VQSLOD=4.04;culprit=FS	GT:AD:DP:GQ:PL	0/1:31,27:58:99:773,0,856
+3	151171439	.	A	C	497.77	PASS	AC=1;AF=0.5;AN=2;BaseQRankSum=-2.275;ClippingRankSum=-1.261;DP=45;FS=0;MLEAC=1;MLEAF=0.5;MQ=60;MQ0=0;MQRankSum=1.968;POSITIVE_TRAIN_SITE;QD=11.06;ReadPosRankSum=1.025;VQSLOD=4.87;culprit=FS	GT:AD:DP:GQ:PL	0/1:24,20:44:99:526,0,703
+3	151171542	.	A	G	468.77	PASS	AC=1;AF=0.5;AN=2;BaseQRankSum=-4.594;ClippingRankSum=-0.871;DP=48;FS=8.463;MLEAC=1;MLEAF=0.5;MQ=60;MQ0=0;MQRankSum=1.044;POSITIVE_TRAIN_SITE;QD=9.77;ReadPosRankSum=0.247;VQSLOD=2.78;culprit=QD	GT:AD:DP:GQ:PL	0/1:27,20:47:99:497,0,826
+3	151176390	.	A	G	513.77	PASS	AC=1;AF=0.5;AN=2;BaseQRankSum=-1.912;ClippingRankSum=0.127;DP=34;FS=7.949;MLEAC=1;MLEAF=0.5;MQ=60;MQ0=0;MQRankSum=-1.512;POSITIVE_TRAIN_SITE;QD=15.11;ReadPosRankSum=0.055;VQSLOD=1.47;culprit=QD	GT:AD:DP:GQ:PL	0/1:14,19:33:99:542,0,367
+3	169485588	.	G	C	756.77	PASS	AC=1;AF=0.5;AN=2;BaseQRankSum=-1.72;ClippingRankSum=-1.083;DP=43;FS=1.254;MLEAC=1;MLEAF=0.5;MQ=60;MQ0=0;MQRankSum=-0.319;POSITIVE_TRAIN_SITE;QD=17.6;ReadPosRankSum=1.491;VQSLOD=3.36;culprit=QD	GT:AD:DP:GQ:PL	0/1:15,28:43:99:785,0,370
+3	169485639	.	C	T	886.77	PASS	AC=1;AF=0.5;AN=2;BaseQRankSum=1.255;ClippingRankSum=-1.904;DP=53;FS=1.083;MLEAC=1;MLEAF=0.5;MQ=60;MQ0=0;MQRankSum=0.514;POSITIVE_TRAIN_SITE;QD=16.73;ReadPosRankSum=-1.543;VQSLOD=3.99;culprit=QD	GT:AD:DP:GQ:PL	0/1:22,31:53:99:915,0,606
+3	179082937	.	G	A	486.77	PASS	AC=1;AF=0.5;AN=2;BaseQRankSum=4.406;ClippingRankSum=0.506;DP=49;FS=6.116;MLEAC=1;MLEAF=0.5;MQ=60.22;MQ0=0;MQRankSum=-1.539;POSITIVE_TRAIN_SITE;QD=9.93;ReadPosRankSum=-0.654;VQSLOD=1.86;culprit=QD	GT:AD:DP:GQ:PL	0/1:29,19:48:99:515,0,701
+3	179096508	.	C	G	1576.77	PASS	AC=2;AF=1;AN=2;DP=60;FS=0;MLEAC=2;MLEAF=1;MQ=59.33;MQ0=0;POSITIVE_TRAIN_SITE;QD=26.28;VQSLOD=5.19;culprit=QD	GT:AD:DP:GQ:PL	1/1:0,56:56:99:1605,168,0
